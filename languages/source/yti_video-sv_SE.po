@@ -1,0 +1,1446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouTube WordPress plugin\n"
+"POT-Creation-Date: 2013-09-05 14:19+0200\n"
+"PO-Revision-Date: 2013-09-05 14:19+0200\n"
+"Last-Translator: YouTube Importer <admin@youtubeimporter.com>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x:2c,1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../includes/functions.php:740
+msgid "Videos in playlist"
+msgstr "Videoklipp i spellistan"
+
+#: ../../includes/functions.php:741
+msgid ""
+"No videos selected.<br />To create a playlist check some videos from the "
+"list on the right."
+msgstr ""
+"Inga videoklipp valda<br />För att skapa en spellista, välj videoklipp från "
+"listan till höger."
+
+#: ../../includes/functions.php:742
+msgid "Delete from playlist"
+msgstr "Ta bort från spellista"
+
+#: ../../includes/functions.php:743
+msgid "Add shortcode into post"
+msgstr "Lägg till shortcode i inlägget"
+
+#: ../../includes/functions.php:796
+msgid "Processing, please wait..."
+msgstr "Laddar, var god vänta..."
+
+#: ../../includes/functions.php:797
+msgid "Not done yet, please be patient..."
+msgstr "Inte klart ännu, var god vänta..."
+
+#: ../../includes/functions.php:798
+msgid "There was an error while importing your thumbnails. Please try again."
+msgstr "Det blev ett fel under importen av miniatyrbilder. Försök igen."
+
+#: ../../includes/functions.php:810
+msgid "Import thumbnails"
+msgstr "Importera miniatyrbilder"
+
+#: ../../includes/functions.php:822
+msgid "Sorry, there was an error, please try again."
+msgstr "Vi ber om ursäkt, ett fel uppstod, var god försök igen."
+
+#: ../../includes/functions.php:826
+msgid "<strong>Error!</strong> Select some posts to import thumbnails for."
+msgstr ""
+"<strong>Fel!</strong> Välj inlägg som du vill importera miniatyrbilder till."
+
+#: ../../includes/functions.php:831
+msgid "Thumbnail imports work only for custom post type."
+msgstr ""
+"Import av miniatyrbilder fungerar endast för skräddarsydda inläggstyper. "
+
+#: ../../includes/functions.php:842
+msgid "Please select a valid action."
+msgstr "Var god välj en giltig funktion."
+
+#: ../../includes/functions.php:858
+msgid "All thumbnails successfully imported."
+msgstr "Alla miniatyrbilder importerades utan problem."
+
+#: ../../includes/functions.php:1134
+#, php-format
+msgid "Next automatic update scheduled in <strong>%s</strong>."
+msgstr "Näst automatiska updatering är schemalagd <strong>%s</strong>"
+
+#: ../../includes/functions.php:1135
+#, php-format
+msgid "Last updated playlist: <em>%s</em>."
+msgstr "Senaste uppdaterade spellistan <em>%s</em>."
+
+#: ../../includes/functions.php:1136
+msgid "Already existing videos will not be imported twice."
+msgstr "Redan existerade videoklipp kommer inte att importeras igen."
+
+#: ../../includes/functions.php:1162
+msgid "minute"
+msgstr "minut"
+
+#: ../../includes/functions.php:1163
+msgid "15 minutes"
+msgstr "15 minuter"
+
+#: ../../includes/functions.php:1164
+msgid "30 minutes"
+msgstr "30 de minuter"
+
+#: ../../includes/functions.php:1165
+msgid "hour"
+msgstr "timma"
+
+#: ../../includes/functions.php:1166
+msgid "2 hours"
+msgstr "2 timmar"
+
+#: ../../includes/functions.php:1167
+msgid "3 hours"
+msgstr "3 timmar"
+
+#: ../../includes/functions.php:1168
+msgid "6 hours"
+msgstr "6 timmar"
+
+#: ../../includes/functions.php:1169
+msgid "12 hours"
+msgstr "12 timmar"
+
+#: ../../includes/functions.php:1170
+msgid "day"
+msgstr "dagar"
+
+#: ../../includes/functions.php:1179
+msgid "10 videos"
+msgstr "10 videoklipp"
+
+#: ../../includes/functions.php:1180
+msgid "20 videos"
+msgstr "20 videoklipp"
+
+#: ../../includes/functions.php:1181
+msgid "30 videos"
+msgstr "30 videoklipp"
+
+#: ../../includes/functions.php:1182
+msgid "40 videos"
+msgstr "40 videoklipp"
+
+#: ../../includes/functions.php:1183
+msgid "50 videos"
+msgstr "50 videoklipp"
+
+#: ../../includes/functions.php:1219
+msgid "Please enter a playlist ID."
+msgstr "Var god välj spellistans ID"
+
+#: ../../includes/functions.php:1232
+#, php-format
+msgid "Playlist contains %d videos."
+msgstr "Spellistan innehåller %d videoklipp."
+
+#: ../../includes/libs/custom-post-type.class.php:56
+msgctxt "Videos"
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:57
+msgctxt "Video"
+msgid "Video"
+msgstr "Videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:58
+msgctxt "Add new video"
+msgid "Add new"
+msgstr "Lägg till"
+
+#: ../../includes/libs/custom-post-type.class.php:59
+msgid "Add new video"
+msgstr "Lägg till nytt videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:60
+msgid "Edit video"
+msgstr "Redigera videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:61
+msgid "New video"
+msgstr "Nytt videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:62
+msgid "All videos"
+msgstr "Alla videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:63
+msgid "View"
+msgstr "Granska"
+
+#: ../../includes/libs/custom-post-type.class.php:64
+#: ../../includes/libs/custom-post-type.class.php:640
+msgid "Search"
+msgstr "Sök"
+
+#: ../../includes/libs/custom-post-type.class.php:65
+msgid "No videos found"
+msgstr "Inga videoklipp funna"
+
+#: ../../includes/libs/custom-post-type.class.php:66
+msgid "No videos in trash"
+msgstr "Inga videoklipp i papperskorgen"
+
+#: ../../includes/libs/custom-post-type.class.php:68
+#: ../../includes/libs/custom-post-type.class.php:201
+#: ../../includes/libs/custom-post-type.class.php:202
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:101
+msgctxt "video"
+msgid "Video categories"
+msgstr "Videokategorier"
+
+#: ../../includes/libs/custom-post-type.class.php:102
+msgctxt "video"
+msgid "Video category"
+msgstr "Videokategori"
+
+#: ../../includes/libs/custom-post-type.class.php:103
+msgid "Search video category"
+msgstr "Sök videokategori"
+
+#: ../../includes/libs/custom-post-type.class.php:104
+msgid "All video categories"
+msgstr "Alla videokategorier"
+
+#: ../../includes/libs/custom-post-type.class.php:105
+msgid "Video category parent"
+msgstr "Videkategori föräldrer"
+
+#: ../../includes/libs/custom-post-type.class.php:106
+msgid "Video category parent:"
+msgstr "Videkategori föräldrer:"
+
+#: ../../includes/libs/custom-post-type.class.php:107
+msgid "Edit video category"
+msgstr "Redigera videokategori"
+
+#: ../../includes/libs/custom-post-type.class.php:108
+msgid "Update video category"
+msgstr "Uppdatera videokategori"
+
+#: ../../includes/libs/custom-post-type.class.php:109
+msgid "Add new video category"
+msgstr "Lägg till ny videokategori"
+
+#: ../../includes/libs/custom-post-type.class.php:110
+msgid "Video category name"
+msgstr "Videokategori namn"
+
+#: ../../includes/libs/custom-post-type.class.php:111
+msgid "Video categories"
+msgstr "Videokategorier"
+
+#: ../../includes/libs/custom-post-type.class.php:149
+#, php-format
+msgid "Video updated <a href=\"%s\">See video</a>"
+msgstr "Videoklipp uppdaterad <a href=\"%s\">Se videklipp</a>"
+
+#: ../../includes/libs/custom-post-type.class.php:150
+msgid "Custom field updated."
+msgstr "Skräddarsytt fält uppdaterat."
+
+#: ../../includes/libs/custom-post-type.class.php:151
+msgid "Custom field deleted."
+msgstr "Skräddarsytt fält raderat."
+
+#: ../../includes/libs/custom-post-type.class.php:152
+msgid "Video updated."
+msgstr "Videoklipp uppdaterat."
+
+#: ../../includes/libs/custom-post-type.class.php:154
+#, php-format
+msgid "Video restored to version %s"
+msgstr "Videoklipp återställt till version %s"
+
+#: ../../includes/libs/custom-post-type.class.php:155
+#, php-format
+msgid "Video published. <a href=\"%s\">See video</a>"
+msgstr "Videoklipp publicerat. <a href=\"%s\">Se videoklipp</a>"
+
+#: ../../includes/libs/custom-post-type.class.php:156
+msgid "Video saved."
+msgstr "Videoklipp sparat."
+
+#: ../../includes/libs/custom-post-type.class.php:157
+#, php-format
+msgid "Video saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr "Videoklipp sparat. <a target=\"_blank\" href=\"%s\">Se videoklipp</a>"
+
+#: ../../includes/libs/custom-post-type.class.php:158
+#, php-format
+msgid ""
+"Video will be published at: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">See video</a>"
+msgstr ""
+"Videoklippet kommer publiceras: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Se videoklipp</a>"
+
+#: ../../includes/libs/custom-post-type.class.php:160
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../../includes/libs/custom-post-type.class.php:161
+#, php-format
+msgid "Video draft saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+"Videoklipp utkast sparat.  <a target=\"_blank\" href=\"%s\">Se videoklipp</a>"
+
+#: ../../includes/libs/custom-post-type.class.php:163
+msgid "Please select a source"
+msgstr "Var god välj en källa"
+
+#: ../../includes/libs/custom-post-type.class.php:176
+#: ../../includes/libs/custom-post-type.class.php:177
+#: ../../includes/libs/custom-post-type.class.php:697
+msgid "Import videos"
+msgstr "Importera videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:184
+msgid "Automatic YouTube video import"
+msgstr "Automatisk YouTube videoklipp importering"
+
+#: ../../includes/libs/custom-post-type.class.php:185
+#: ../../includes/libs/custom-post-type.class.php:554
+#: ../../views/plugin_settings.php:124
+msgid "Automatic import"
+msgstr "Automatisk importering"
+
+#: ../../includes/libs/custom-post-type.class.php:193
+#: ../../includes/libs/custom-post-type.class.php:194
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../../includes/libs/custom-post-type.class.php:215
+msgid "Overview"
+msgstr "Överblick"
+
+#: ../../includes/libs/custom-post-type.class.php:220
+msgid "Import frequency"
+msgstr "Import frekvens"
+
+#: ../../includes/libs/custom-post-type.class.php:225
+msgid "Import videos as posts"
+msgstr "Importera videoklipp som inlägg"
+
+#: ../../includes/libs/custom-post-type.class.php:385
+#: ../../includes/libs/custom-post-type.class.php:444
+msgid "Please fill all required fields marked with *."
+msgstr "Var god fyll i alla nödvändiga fält markerade med *."
+
+#: ../../includes/libs/custom-post-type.class.php:509
+msgid "Add new playlist"
+msgstr "Lägg till ny spellista"
+
+#: ../../includes/libs/custom-post-type.class.php:537
+#, php-format
+msgid "Edit playlist <em>%s</em>"
+msgstr "Redigera spellista <em>%s</em>"
+
+#: ../../includes/libs/custom-post-type.class.php:555
+msgid "Add New"
+msgstr "Lägg till nytt"
+
+#: ../../includes/libs/custom-post-type.class.php:604
+msgid "Video list"
+msgstr "Lista videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:662
+#: ../../includes/libs/video-import-list-table.class.php:119
+#: ../../includes/libs/video-list-table.class.php:185
+msgid "Video ID"
+msgstr "Video ID"
+
+#: ../../includes/libs/custom-post-type.class.php:663
+#: ../../includes/libs/video-import-list-table.class.php:121
+#: ../../includes/libs/video-list-table.class.php:186
+msgid "Duration"
+msgstr "Längd"
+
+#: ../../includes/libs/custom-post-type.class.php:1073
+#, php-format
+msgid "Out of %d videos, %d were successfully imported and %d were skipped."
+msgstr "Utav %d videoklipp, %d importerades utan problem %d skippades."
+
+#: ../../includes/libs/custom-post-type.class.php:1079
+msgid ""
+"No videos selected for importing. Please select some videos by checking the "
+"checkboxes next to video title."
+msgstr ""
+"Inga videoklipp valda för importering. Var god välj några videoklipp genom "
+"att kryssa i fälten brevid videotiteln."
+
+#: ../../includes/libs/custom-post-type.class.php:1082
+msgid "Please select an action."
+msgstr "Var god välj en åtgärd."
+
+#: ../../includes/libs/custom-post-type.class.php:1085
+#: ../../includes/libs/custom-post-type.class.php:1088
+msgid "Cheatin' uh?"
+msgstr "Fuskar du? va?!"
+
+#: ../../includes/libs/custom-post-type.class.php:1107
+msgid "Importing, please wait..."
+msgstr "Importerar. Var god vänta..."
+
+#: ../../includes/libs/custom-post-type.class.php:1108
+msgid "Not done yet, still importing. You'll have to wait a bit longer."
+msgstr "Inte klart ännu, importerar fortfarande. Du får vänta en stund till."
+
+#: ../../includes/libs/custom-post-type.class.php:1157
+msgid "Video settings"
+msgstr "Videoinställningar."
+
+#: ../../includes/libs/custom-post-type.class.php:1166
+msgid "Live video"
+msgstr "Live Video"
+
+#: ../../includes/libs/custom-post-type.class.php:1191
+msgid "Video shortcode"
+msgstr "Video shortcode"
+
+#: ../../includes/libs/custom-post-type.class.php:1214
+msgid "Import YouTube thumbnail"
+msgstr "Importera YouTube miniatyrbilder"
+
+#: ../../includes/libs/custom-post-type.class.php:1245
+msgid "Add video/playlist into post."
+msgstr "Lägg till videoklipp/spelllista i inlägget."
+
+#: ../../includes/libs/custom-post-type.class.php:1246
+msgid "Add shortcode"
+msgstr "Lägg till shortcode"
+
+#: ../../includes/libs/custom-post-type.class.php:1246
+msgid "Add video shortcode"
+msgstr "Lägg till video shortcode"
+
+#: ../../includes/libs/custom-post-type.class.php:1302
+#: ../../views/plugin_settings.php:156
+msgid "Player size"
+msgstr "Storlek på spelaren"
+
+#: ../../includes/libs/custom-post-type.class.php:1304
+#: ../../includes/libs/video-list-table.class.php:56
+#: ../../views/plugin_settings.php:158
+msgid "Aspect ratio"
+msgstr "Bildstorlek"
+
+#: ../../includes/libs/custom-post-type.class.php:1318
+#: ../../includes/libs/latest-videos-widget.class.php:163
+#: ../../includes/libs/video-list-table.class.php:43
+#: ../../views/plugin_settings.php:172
+msgid "Width"
+msgstr "Bredd"
+
+#: ../../includes/libs/custom-post-type.class.php:1320
+#: ../../includes/libs/latest-videos-widget.class.php:165
+#: ../../views/plugin_settings.php:174
+msgid "Height"
+msgstr "Höjd"
+
+#: ../../includes/libs/custom-post-type.class.php:1325
+#: ../../views/plugin_settings.php:179
+msgid "Display video in custom post"
+msgstr "Visa video i skräddarsytt inlägg"
+
+#: ../../includes/libs/custom-post-type.class.php:1330
+#: ../../views/plugin_settings.php:184
+msgid "Above post content"
+msgstr "Ovanför inläggets innehåll"
+
+#: ../../includes/libs/custom-post-type.class.php:1331
+#: ../../views/plugin_settings.php:185
+msgid "Below post content"
+msgstr "Nedanför inläggets innehåll"
+
+#: ../../includes/libs/custom-post-type.class.php:1342
+#: ../../includes/libs/latest-videos-widget.class.php:168
+#: ../../includes/libs/video-list-table.class.php:42
+#: ../../views/plugin_settings.php:197
+msgid "Volume"
+msgstr "Ljudvolym"
+
+#: ../../includes/libs/custom-post-type.class.php:1345
+#: ../../includes/libs/latest-videos-widget.class.php:170
+#: ../../views/plugin_settings.php:200
+msgid "number between 0 (mute) and 100 (max)"
+msgstr "Nummer mellan 0  (ljudlös) och 100 (maximalt)"
+
+#: ../../includes/libs/custom-post-type.class.php:1349
+#: ../../views/plugin_settings.php:205
+msgid "Autoplay"
+msgstr "Autospela"
+
+#: ../../includes/libs/custom-post-type.class.php:1352
+msgid "when checked, video will start playing once page is loaded"
+msgstr "välj om du vill att videon skall starta när sidan laddats"
+
+#: ../../includes/libs/custom-post-type.class.php:1357
+msgid "Show controls"
+msgstr "Visa kontroller"
+
+#: ../../includes/libs/custom-post-type.class.php:1360
+msgid "when checked, player will display video controls"
+msgstr "välj om du vill visa video kontroller"
+
+#: ../../includes/libs/custom-post-type.class.php:1365
+msgid "Allow full screen"
+msgstr "Tillåt fullskärm"
+
+#: ../../includes/libs/custom-post-type.class.php:1372
+#: ../../views/plugin_settings.php:220
+msgid "Autohide controls"
+msgstr "Göm kontroller"
+
+#: ../../includes/libs/custom-post-type.class.php:1377
+#: ../../views/plugin_settings.php:225
+msgid "Always show controls"
+msgstr "Visa alltid kontroller"
+
+#: ../../includes/libs/custom-post-type.class.php:1378
+#: ../../views/plugin_settings.php:226
+msgid "Hide controls on load and when playing"
+msgstr "Göm kontroller vid laddning och vid uppspelning"
+
+#: ../../includes/libs/custom-post-type.class.php:1379
+msgid "Hide controls when playing"
+msgstr "Göm kontroller vid uppspelning"
+
+#: ../../includes/libs/custom-post-type.class.php:1391
+#: ../../views/plugin_settings.php:238
+msgid "Player theme"
+msgstr "Spelarens tema"
+
+#: ../../includes/libs/custom-post-type.class.php:1396
+#: ../../views/plugin_settings.php:243
+msgid "Dark"
+msgstr "Mörk"
+
+#: ../../includes/libs/custom-post-type.class.php:1397
+#: ../../views/plugin_settings.php:244
+msgid "Light"
+msgstr "Ljus"
+
+#: ../../includes/libs/custom-post-type.class.php:1409
+#: ../../views/plugin_settings.php:255
+msgid "Player color"
+msgstr "Spelarens färg"
+
+#: ../../includes/libs/custom-post-type.class.php:1414
+#: ../../views/plugin_settings.php:260
+msgid "Red"
+msgstr "Röd"
+
+#: ../../includes/libs/custom-post-type.class.php:1415
+#: ../../views/plugin_settings.php:261
+msgid "White"
+msgstr "Vit"
+
+#: ../../includes/libs/custom-post-type.class.php:1427
+#: ../../views/plugin_settings.php:272
+msgid "No YouTube logo on controls bar"
+msgstr "Göm YouTube logotypen i kontrollfältet"
+
+#: ../../includes/libs/custom-post-type.class.php:1430
+#: ../../views/plugin_settings.php:275
+msgid ""
+"Setting the color parameter to white will cause this option to be ignored."
+msgstr ""
+"Om du sätter färgparametern till vit, kommer denna möjlighet ignoreras."
+
+#: ../../includes/libs/custom-post-type.class.php:1435
+#: ../../views/plugin_settings.php:280
+msgid "Annotations"
+msgstr "Kommentarer"
+
+#: ../../includes/libs/custom-post-type.class.php:1440
+#: ../../views/plugin_settings.php:285
+msgid "Show annotations by default"
+msgstr "Visa kommentarer som standard"
+
+#: ../../includes/libs/custom-post-type.class.php:1441
+#: ../../views/plugin_settings.php:286
+msgid "Hide annotations"
+msgstr "Dölj kommentarer"
+
+#: ../../includes/libs/custom-post-type.class.php:1452
+#: ../../views/plugin_settings.php:297
+msgid "Show related videos"
+msgstr "Visa relaterade videoklipp"
+
+#: ../../includes/libs/custom-post-type.class.php:1455
+#: ../../views/plugin_settings.php:300
+msgid "when checked, after video ends player will display related videos"
+msgstr ""
+"Välj om du vill att relaterade videoklipp skall visas när videoklippet är "
+"slut"
+
+#: ../../includes/libs/custom-post-type.class.php:1460
+msgid "Show video title in player"
+msgstr "Visa videotitel i spelaren"
+
+#: ../../includes/libs/custom-post-type.class.php:1465
+#: ../../views/plugin_settings.php:310
+msgid "Disable keyboard player controls"
+msgstr "Inaktivera tangentbordsfunktioner i spelaren"
+
+#: ../../includes/libs/custom-post-type.class.php:1468
+#: ../../views/plugin_settings.php:313
+msgid "Works only when player has focus."
+msgstr "Fungerar endast när spelaren är i fokus."
+
+#: ../../includes/libs/latest-videos-widget.class.php:13
+msgid "The most recent videos on your site."
+msgstr "De senaste videoklippen på din sida."
+
+#: ../../includes/libs/latest-videos-widget.class.php:24
+msgid "Recent videos"
+msgstr "Senaste videoklippen"
+
+#: ../../includes/libs/latest-videos-widget.class.php:131
+#: ../../includes/libs/playlists-list-table.class.php:205
+#: ../../includes/libs/video-import-list-table.class.php:117
+#: ../../includes/libs/video-list-table.class.php:184
+msgid "Title"
+msgstr "Titel"
+
+#: ../../includes/libs/latest-videos-widget.class.php:135
+msgid "Number of videos to show"
+msgstr "Antal videoklipp att visa"
+
+#: ../../includes/libs/latest-videos-widget.class.php:140
+msgid "Display YouTube thumbnails?"
+msgstr "Visa YouTube miniatyrbilder?"
+
+#: ../../includes/libs/latest-videos-widget.class.php:144
+msgid "Show as video playlist"
+msgstr "Visa videoklipp som spellista"
+
+#: ../../includes/libs/latest-videos-widget.class.php:149
+msgid "Aspect"
+msgstr "Aspekt"
+
+#: ../../includes/libs/playlists-list-table.class.php:61
+msgid "Start"
+msgstr "Starta"
+
+#: ../../includes/libs/playlists-list-table.class.php:61
+msgid "Pause"
+msgstr "Pausa"
+
+#: ../../includes/libs/playlists-list-table.class.php:65
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../../includes/libs/playlists-list-table.class.php:66
+#: ../../includes/libs/playlists-list-table.class.php:223
+msgid "Delete"
+msgstr "Radera"
+
+#: ../../includes/libs/playlists-list-table.class.php:67
+msgid "Reset"
+msgstr "Återställ"
+
+#: ../../includes/libs/playlists-list-table.class.php:87
+msgid "User uploads"
+msgstr "Användarens uppladdningar"
+
+#: ../../includes/libs/playlists-list-table.class.php:90
+msgid "Video playlist"
+msgstr "Vide spellista"
+
+#: ../../includes/libs/playlists-list-table.class.php:126
+msgid "never"
+msgstr "aldrig"
+
+#: ../../includes/libs/playlists-list-table.class.php:135
+msgid "Not in queue"
+msgstr "Inte i kö"
+
+#: ../../includes/libs/playlists-list-table.class.php:149
+#, php-format
+msgid "Import as <strong>%s</strong> posts."
+msgstr "Importera som <strong>%s</sctrong>."
+
+#: ../../includes/libs/playlists-list-table.class.php:152
+msgid "Theme not active. Videos will be imported as plugin custom posts."
+msgstr ""
+"Temat är inte aktivt. Videoklippen kommer importeras som tilläggets "
+"skräddarsydda inlägg."
+
+#: ../../includes/libs/playlists-list-table.class.php:155
+msgid "Import as custom post."
+msgstr "Importera som skräddarsytt inlägg."
+
+#: ../../includes/libs/playlists-list-table.class.php:206
+msgid "Playlist type"
+msgstr "Typ av spellista"
+
+#: ../../includes/libs/playlists-list-table.class.php:207
+#: ../../views/manage_playlist.php:104
+msgid "Import in category"
+msgstr "Importera i kategori"
+
+#: ../../includes/libs/playlists-list-table.class.php:208
+#: ../../views/manage_playlist.php:43
+msgid "Playlist ID"
+msgstr "Spellistans ID"
+
+#: ../../includes/libs/playlists-list-table.class.php:209
+msgid "Imported"
+msgstr "Importerat"
+
+#: ../../includes/libs/playlists-list-table.class.php:210
+msgid "Total videos"
+msgstr "Totala videoklipp"
+
+#: ../../includes/libs/playlists-list-table.class.php:211
+msgid "Queried on"
+msgstr "Frågad"
+
+#: ../../includes/libs/playlists-list-table.class.php:212
+msgid "Status"
+msgstr "Status"
+
+#: ../../includes/libs/playlists-list-table.class.php:224
+msgid "Remove from import queue"
+msgstr "Ta bort från importkön"
+
+#: ../../includes/libs/playlists-list-table.class.php:225
+msgid "Add to import queue"
+msgstr "Lägg till i importkön"
+
+#: ../../includes/libs/playlists-list-table.class.php:246
+msgid "All automatic importers"
+msgstr "Alla automatiska importer"
+
+#: ../../includes/libs/playlists-list-table.class.php:246
+msgid "All"
+msgstr "Alla"
+
+#: ../../includes/libs/playlists-list-table.class.php:247
+msgid "Active automatic importers"
+msgstr "Aktiva automatiska importer"
+
+#: ../../includes/libs/playlists-list-table.class.php:247
+msgid "Active"
+msgstr "Aktiv"
+
+#: ../../includes/libs/playlists-list-table.class.php:248
+msgid "Inactive automatic importers"
+msgstr "Inaktiverade automatiska importer"
+
+#: ../../includes/libs/playlists-list-table.class.php:248
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: ../../includes/libs/video-import-list-table.class.php:21
+#, php-format
+msgid "Column <em>%s</em> was not found."
+msgstr "Kolumnen<em>%s</em> kunde inte hittas."
+
+#: ../../includes/libs/video-import-list-table.class.php:47
+msgid "View on YouTube"
+msgstr "Visa i YouTube"
+
+#: ../../includes/libs/video-import-list-table.class.php:75
+#, php-format
+msgid " (%d votes)"
+msgstr "(%d röster)"
+
+#: ../../includes/libs/video-import-list-table.class.php:118
+#: ../../includes/libs/video-list-table.class.php:187
+msgid "Category"
+msgstr "Kategori"
+
+#: ../../includes/libs/video-import-list-table.class.php:120
+msgid "Uploader"
+msgstr "Uppladdare"
+
+#: ../../includes/libs/video-import-list-table.class.php:122
+#: ../../views/import_videos.php:69
+msgid "Rating"
+msgstr "Betyg"
+
+#: ../../includes/libs/video-import-list-table.class.php:123
+msgid "Views"
+msgstr "Visningar"
+
+#: ../../includes/libs/video-import-list-table.class.php:124
+#: ../../includes/libs/video-list-table.class.php:140
+#: ../../views/plugin_settings.php:110
+msgid "Published"
+msgstr "Publicerad"
+
+#: ../../includes/libs/video-import-list-table.class.php:161
+#: ../../views/manage_playlist.php:95 ../../views/manage_playlist.php:146
+msgid "Create categories from YouTube"
+msgstr "Skapa kategoerier från YouTube"
+
+#: ../../includes/libs/video-import-list-table.class.php:163
+#: ../../views/manage_playlist.php:97 ../../views/manage_playlist.php:148
+msgid "Select category (optional)"
+msgstr "Välj kategori (valfritt)"
+
+#: ../../includes/libs/video-import-list-table.class.php:169
+#: ../../views/manage_playlist.php:55
+msgid "Current user"
+msgstr "Nuvarande användare"
+
+#: ../../includes/libs/video-import-list-table.class.php:177
+msgid "Bulk actions"
+msgstr "Sammanställ åtgärder"
+
+#: ../../includes/libs/video-import-list-table.class.php:178
+msgid "Import"
+msgstr "Importera"
+
+#: ../../includes/libs/video-import-list-table.class.php:182
+msgid "Import into category"
+msgstr "Importera i kategori"
+
+#: ../../includes/libs/video-import-list-table.class.php:187
+#: ../../views/manage_playlist.php:65
+msgid "Import as user"
+msgstr "Importera som användare"
+
+#: ../../includes/libs/video-import-list-table.class.php:191
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: ../../includes/libs/video-list-table.class.php:57
+msgid "Auto play"
+msgstr "Autospela"
+
+#: ../../includes/libs/video-list-table.class.php:58
+#: ../../views/plugin_settings.php:210
+msgid "Show player controls"
+msgstr "Visa spelarens kontroller"
+
+#: ../../includes/libs/video-list-table.class.php:59
+msgid "Insert shortcode"
+msgstr "Lägg till shortcode"
+
+#: ../../includes/libs/video-list-table.class.php:60
+#: ../../views/manage_playlist.php:5
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../../includes/libs/video-list-table.class.php:66
+msgid "Get video shortcode"
+msgstr "Hämta video shortcode"
+
+#: ../../includes/libs/video-list-table.class.php:139
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: ../../includes/libs/video-list-table.class.php:157
+msgid "All categories"
+msgstr "Alla kategorier"
+
+#: ../../includes/libs/video-list-table.class.php:171
+msgid "Categories"
+msgstr "Kategorier"
+
+#: ../../includes/libs/video-list-table.class.php:173
+msgid "Filter"
+msgstr "Filter"
+
+#: ../../includes/libs/video-list-table.class.php:188
+msgid "Date"
+msgstr "Datum"
+
+#: ../../views/import_videos.php:2
+msgid "Import videos from YouTube."
+msgstr "Importera videoklipp från YouTube."
+
+#: ../../views/import_videos.php:3
+msgid ""
+"Enter your search criteria and submit. All found videos will be displayed "
+"and you can selectively import videos into WordPress."
+msgstr ""
+"Ange sökkriterier och skicka. Alla funna videoklipp kommer visas och du kan "
+"välja vilka du vill importera till WordPress."
+
+#: ../../views/import_videos.php:13 ../../views/manage_playlist.php:26
+msgid "Feed type"
+msgstr "Typ av flöde"
+
+#: ../../views/import_videos.php:17
+msgid "YouTube user ID"
+msgstr "YouTube användar ID"
+
+#: ../../views/import_videos.php:17
+msgid "User feed"
+msgstr "Användarflöde"
+
+#: ../../views/import_videos.php:18
+msgid "YouTube playlist ID"
+msgstr "Spellistans ID från YouTube"
+
+#: ../../views/import_videos.php:18
+msgid "Playlist feed"
+msgstr "Spellistans flöde"
+
+#: ../../views/import_videos.php:19
+msgid "Search query"
+msgstr "Sökfrågor"
+
+#: ../../views/import_videos.php:19
+msgid "Search query feed"
+msgstr "Sökning av flöde"
+
+#: ../../views/import_videos.php:21
+msgid "Select the type of feed you want to load."
+msgstr "Välj vilken typ av flöde du vill ladda."
+
+#: ../../views/import_videos.php:26
+msgid "Number of videos to retrieve"
+msgstr "Antal videoklipp som ska tas med"
+
+#: ../../views/import_videos.php:29
+msgid ""
+"Enter any number of results you want to retrieve. Results will be displayed "
+"paginated."
+msgstr ""
+"Ange antal resultat som du vill ta med. Resultaten kommer visas sidvis."
+
+#: ../../views/import_videos.php:34
+msgid "Video duration"
+msgstr "Videolängd"
+
+#: ../../views/import_videos.php:37
+msgid "Any"
+msgstr "Vilken som helst"
+
+#: ../../views/import_videos.php:38
+msgid "Short (under 4min.)"
+msgstr "Kort (under  4 minuter)"
+
+#: ../../views/import_videos.php:39
+msgid "Medium (between 4 and 20min.)"
+msgstr "Medium (mellan 4 och 20 minuter)"
+
+#: ../../views/import_videos.php:40
+msgid "Long (over 20min.)"
+msgstr "Lång (över 20 minuter)"
+
+#: ../../views/import_videos.php:47
+msgid "Search by"
+msgstr "Sök efter"
+
+#: ../../views/import_videos.php:51
+msgid ""
+"Enter playlist ID, user ID or search query according to Feed Type selection."
+msgstr ""
+"Fyll i spellistans ID, användar ID eller sökfråga enligt flödestypen du valt."
+
+#: ../../views/import_videos.php:56
+msgid "Order by"
+msgstr "Sortera efter"
+
+#: ../../views/import_videos.php:59
+msgid "Date of publishing"
+msgstr "Publiceringsdatum"
+
+#: ../../views/import_videos.php:60
+msgid "Number of views"
+msgstr "Antal visningar"
+
+#: ../../views/import_videos.php:62
+msgid "Position in playlist"
+msgstr "Position i spellistan"
+
+#: ../../views/import_videos.php:63
+msgid "Number of comments"
+msgstr "Antal kommentarer"
+
+#: ../../views/import_videos.php:64
+msgid "Duration (longest to shortest)"
+msgstr "Längd (längst till kortast)"
+
+#: ../../views/import_videos.php:65
+msgid "Reversed position in playlist"
+msgstr "Omvänd position i spellistan"
+
+#: ../../views/import_videos.php:66
+msgid "Video title"
+msgstr "Videotitel"
+
+#: ../../views/import_videos.php:68
+msgid "Search relevance"
+msgstr "Sökrelevans"
+
+#: ../../views/import_videos.php:80 ../../views/manage_playlist.php:119
+#, php-format
+msgid "Import in <strong>%s</strong>?"
+msgstr "Importera i <strong>%s</strong>?"
+
+#: ../../views/import_videos.php:85 ../../views/manage_playlist.php:124
+#, php-format
+msgid ""
+"If you choose to import in %s, all videos will be imported as regular posts "
+"and will be visible in your blog categories."
+msgstr ""
+"Om du väljer att importera till %s, så kommer alla videoklipp importeras som "
+"vanliga inlägg och kommer vara synliga i bloggens kategorier."
+
+#: ../../views/import_videos.php:100
+msgid "Load feed"
+msgstr "Ladda flöde"
+
+#: ../../views/manage_playlist.php:19
+msgid "Playlist name"
+msgstr "Spellistans namn"
+
+#: ../../views/manage_playlist.php:22
+msgid "A name for your internal reference."
+msgstr "Ett namn för din interna referens."
+
+#: ../../views/manage_playlist.php:31
+msgid "User playlist"
+msgstr "Användarens spellista"
+
+#: ../../views/manage_playlist.php:32
+msgid "YouTube playlist"
+msgstr "YouTube spellista"
+
+#: ../../views/manage_playlist.php:39
+msgid "Choose the kind of playlist you want to import."
+msgstr "Välj vilken typ av spellista du vill importera."
+
+#: ../../views/manage_playlist.php:46
+msgid "Check playlist"
+msgstr "Välj spellista"
+
+#: ../../views/manage_playlist.php:47
+msgid "Enter playlist ID or user ID according to Feed Type selection."
+msgstr "Ange spellistans ID eller användar ID enligt flödets val."
+
+#: ../../views/manage_playlist.php:68
+msgid "Video posts will be created as written by the selected user."
+msgstr "Videoinläggen kommer skapas som vald användare."
+
+#: ../../views/manage_playlist.php:74
+msgid "Add to import queue?"
+msgstr "Lägg till import i kön?"
+
+#: ../../views/manage_playlist.php:77
+msgid ""
+"If checked, playlist will be added to importing queue and will import when "
+"its turn comes."
+msgstr ""
+"Välj om du vill att spellistan ska läggas till i importeringskön, och "
+"importeras när när dess tur är kommen."
+
+#: ../../views/manage_playlist.php:107
+msgid "Select category for all videos imported from this playlist."
+msgstr "Välj kategori för alla videoklipp som importeras från denna spellista."
+
+#: ../../views/manage_playlist.php:154
+#, php-format
+msgid "Import in <strong>%s</strong> category"
+msgstr "Importera i <strong>%s</strong> kategori"
+
+#: ../../views/manage_playlist.php:157
+msgid ""
+"Select category for all videos imported from this playlist as theme posts."
+msgstr ""
+"Välj kategori för alla videoklipp som importeras från denna spellista som "
+"temainlägg."
+
+#: ../../views/manage_playlist.php:175
+msgid "Save"
+msgstr "Spara"
+
+#: ../../views/new_video.php:3
+msgid "step 1"
+msgstr "steg 1"
+
+#: ../../views/new_video.php:7
+msgid "Please enter the video ID you want to search for:"
+msgstr "Var god ange vilket video ID du vill söka efter:"
+
+#: ../../views/new_video.php:9
+msgid "how to get video ID"
+msgstr "hur man skaffar video ID"
+
+#: ../../views/new_video.php:13
+#, php-format
+msgid "Import as <strong>%s</strong> post"
+msgstr "Importera som <strong>%s</strong> inlägg"
+
+#: ../../views/new_video.php:16
+msgid ""
+"<strong>Step 1</strong> - open any YouTube video page with your favourite "
+"browser."
+msgstr "<strong>Steg 1</strong> - öppna YouTube med valfri webbläsare."
+
+#: ../../views/new_video.php:17
+msgid ""
+"<strong>Step 2</strong> - From your browser address bar copy the value from "
+"variable v (highlighted in image below)."
+msgstr ""
+"<strong>Steg 2</strong> - Från adressfältet i webbläsaren, kopiera texten "
+"som visas i bilden nedan."
+
+#: ../../views/new_video.php:19
+msgid ""
+"<strong>Step 3</strong> - paste the ID into the field above and hit Search "
+"video below."
+msgstr ""
+"<strong>Steg 3</strong> - klistra in ID-texten/numret i fältet ovan och "
+"tryck på Sök videoklipp nedan."
+
+#: ../../views/new_video.php:23
+msgid "Search video"
+msgstr "Sök videoklipp"
+
+#: ../../views/plugin_settings.php:3
+msgid "Videos - Plugin settings"
+msgstr "Videoklipp - Tilläggsinställningar"
+
+#: ../../views/plugin_settings.php:9
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: ../../views/plugin_settings.php:11
+msgid "Allow videos in front-end as posts"
+msgstr "Tillåt videoklipp som front-end inlägg"
+
+#: ../../views/plugin_settings.php:16
+msgid ""
+"Videos are not available in front-end to be used as posts. You can only "
+"incorporate them in playlists or display them in regular posts."
+msgstr ""
+"Videoklippen är inte tillgängliga i front-enden att användas som inlägg. Du "
+"kan endast lägga till dessa i spellistor eller visa dom i vanliga inlägg."
+
+#: ../../views/plugin_settings.php:18
+msgid ""
+"Videos are available in front-end as regular posts are and can also be "
+"incorporated in playlists or displayed in regular posts."
+msgstr ""
+"Videoklippen är tillgängliga i front-enden som vanliga inlägg, och kan även "
+"läggas till i spellistor eller visas som vanliga inlägg."
+
+#: ../../views/plugin_settings.php:25
+msgid "Allow videos in archive pages"
+msgstr "Tillåt videoklipp på arkiv sidorna."
+
+#: ../../views/plugin_settings.php:29
+msgid ""
+"When checked, videos will be visible on all pages displaying lists of video "
+"posts."
+msgstr ""
+"Välj om du vill att videoklippen skall vara synliga på alla sidor som visar "
+"listor av video inlägg."
+
+#: ../../views/plugin_settings.php:35
+msgid "Rewrite (pretty links)"
+msgstr "Skriv om (förfinade länkar)"
+
+#: ../../views/plugin_settings.php:37
+msgid "Post slug"
+msgstr "Posta slug"
+
+#: ../../views/plugin_settings.php:43
+msgid "Taxonomy slug"
+msgstr "Taxonomy slug"
+
+#: ../../views/plugin_settings.php:50
+msgid "Bulk Import settings"
+msgstr "Inställningar för mass-import."
+
+#: ../../views/plugin_settings.php:52
+msgid "Import categories"
+msgstr "Importerings kategorier"
+
+#: ../../views/plugin_settings.php:55
+msgid ""
+"Categories retrieved from YouTube will be automatically created and videos "
+"assigned to them accordingly."
+msgstr ""
+"Kategorier som importeras från YouTube kommer automatiskt att skapas och "
+"videoklippen kommer läggas till i dessa."
+
+#: ../../views/plugin_settings.php:60
+msgid "Import date"
+msgstr "Importeringsdatum"
+
+#: ../../views/plugin_settings.php:63
+msgid "Imports will have YouTube's publishing date."
+msgstr "Importeringarna kommer ha YouTube's publiceringsdatum"
+
+#: ../../views/plugin_settings.php:68
+msgid "Set featured image"
+msgstr "Välj utvald bild"
+
+#: ../../views/plugin_settings.php:71
+msgid "YouTube video thumbnail will be set as post featured image."
+msgstr "YouTube videons miniatyrbild kommer sättas som utvald bild."
+
+#: ../../views/plugin_settings.php:72
+msgid ""
+"If you choose to import thumbnails as featured images please lower the "
+"number<br /> of videos imported under <strong>Automatic import</strong> "
+"option to 10 or 20 videos."
+msgstr ""
+"Om du väljer att importera miniatyrbilder som utvalda bilder, var god sänk "
+"antalet<br /> videoklipp importerade under  <strong>Automatisk importering </"
+"strong> till 10 eller 20 videoklipp."
+
+#: ../../views/plugin_settings.php:77
+msgid "Import titles"
+msgstr "Importera titlar"
+
+#: ../../views/plugin_settings.php:80
+msgid "Automatically import video titles from feeds as post title."
+msgstr "Importera videotitlar från flödet som inläggstitel automatiskt."
+
+#: ../../views/plugin_settings.php:85
+msgid "Import descriptions as"
+msgstr "Importera beskrivning som"
+
+#: ../../views/plugin_settings.php:90
+msgid "post content"
+msgstr "posta innehåll"
+
+#: ../../views/plugin_settings.php:91
+msgid "post excerpt"
+msgstr "posta utdrag"
+
+#: ../../views/plugin_settings.php:92
+msgid "post content and excerpt"
+msgstr "posta innehåll och utdrag"
+
+#: ../../views/plugin_settings.php:93
+msgid "do not import"
+msgstr "importera inte"
+
+#: ../../views/plugin_settings.php:100
+msgid ""
+"Import video description from feeds as post description, excerpt or none."
+msgstr ""
+"Importera videobeskrivning från flödet som inläggsbeskrivning, utdrag eller "
+"inga."
+
+#: ../../views/plugin_settings.php:105
+msgid "Import status"
+msgstr "Importeringsstatus"
+
+#: ../../views/plugin_settings.php:111
+msgid "Draft"
+msgstr "Utkast"
+
+#: ../../views/plugin_settings.php:112
+msgid "Pending"
+msgstr "Pågående"
+
+#: ../../views/plugin_settings.php:119
+msgid "Bulk imported videos will have this status."
+msgstr "Mass-importerade videoklipp kommer ha denna status."
+
+#: ../../views/plugin_settings.php:126
+msgid "Import "
+msgstr "Importera"
+
+#: ../../views/plugin_settings.php:135
+msgid "every"
+msgstr "alla"
+
+#: ../../views/plugin_settings.php:144
+msgid "How often should YouTube be queried for playlist updates."
+msgstr "Hur ofta skall YouTube köas för uppdateringar av spellistan."
+
+#: ../../views/plugin_settings.php:150
+msgid "Player settings"
+msgstr "Spelarinställningar"
+
+#: ../../views/plugin_settings.php:151
+msgid ""
+"General YouTube player settings. These settings will be applied to any new "
+"video by default and can be changed individually for every imported video."
+msgstr ""
+"Generella YouTube spelarinställningar. Dessa inställningar kommer bli "
+"applicerade till varje nytt videoklipp som standard och kan ändras "
+"individuellt för varje importerat videoklipp."
+
+#: ../../views/plugin_settings.php:215
+msgid "Allow fullscreen"
+msgstr "Tillåt fullskärm"
+
+#: ../../views/plugin_settings.php:227
+msgid "Fade out progress bar when playing"
+msgstr "Tyna bort progress-baren när videon spelas"
+
+#: ../../views/plugin_settings.php:305
+msgid "Show video title by default"
+msgstr "Visa videotitel som standard"
+
+#: ../../views/plugin_settings.php:314
+msgid ""
+"Controls:<br> - spacebar : play/pause,<br> - arrow left : jump back 10% in "
+"current video,<br> - arrow-right: jump ahead 10% in current video,<br> - "
+"arrow up - volume up,<br> - arrow down - volume down."
+msgstr ""
+"Kontroller:<br /> - Blanksteg: spela/pausa,<br /> - vänsterpil: backa 10% av "
+"aktuellt klipp,<br /> - högerpil: spola fram  10% av aktuellt klipp,<br /> - "
+"uppåtpil: höj volymen,<br /> - nedåtpil: sänk volymen."
+
+#: ../../views/plugin_settings.php:320
+msgid "Purchase code"
+msgstr "Köpkod"
+
+#: ../../views/plugin_settings.php:321
+msgid "Envato purchase code will enable automatic updates."
+msgstr "Envaot köpkod kommer möjliggöra automatiska uppdateringar."
+
+#: ../../views/plugin_settings.php:325
+msgid "Enter purchase code"
+msgstr "Fyll i köpkod"
+
+#: ../../views/plugin_settings.php:328
+msgid ""
+"You can find your purchase code by accessing your Envato marketplace "
+"Downloads page <br />and clicking on Licence Certificate link that can be "
+"found under your plugin purchase."
+msgstr ""
+"Du kan hitta din köpkod genom att logga in på Envato Marketplace och gå till "
+"Downloads Page  <br />och sedan klicka på \"Licence Certificate\"-länken som "
+"finns under detta plugin."
+
+#: ../../views/plugin_settings.php:335
+msgid "Save settings"
+msgstr "Spara inställningar"
+
+#: ../../views/help/automatic-import-as-post.html.php:2
+msgid ""
+"Depending on the WordPress theme used, the plugin can import videos directly "
+"as posts. Currently supported themes are DeTube and Avada."
+msgstr ""
+"Beroende på vilket wordpress tema du använder, kommer detta tillägg "
+"importera videoklippen direkt som inlägg. För tillfället stödjs DeTube och "
+"Avada teman."
+
+#: ../../views/help/automatic-import-as-post.html.php:3
+msgid ""
+"To import videos as posts the first requirement is to have any of the "
+"supported themes installed and activated."
+msgstr ""
+"För att importera videoklipp som inlägg så måste du ha ett tema som stödjs "
+"av tillägget installerat och aktiverat."
+
+#: ../../views/help/automatic-import-as-post.html.php:4
+msgid ""
+"If the plugin detects the theme, on all import pages (single post, manual "
+"import and automatic import) it will display a new option asking if it "
+"should do the import as regular post."
+msgstr ""
+"Om detta tilllägg upptäcker ett tema som stödjs, så kommer en ny möjlighet/"
+"funktion dyka upp på (enskilt inlägg, manuell import och automatisk import). "
+"Det kommer dyka upp en checkbox som du kan kryssa för som frågar om du vill "
+"importera videoklippen som poster eller som temaposter."
+
+#: ../../views/help/automatic-import-as-post.html.php:5
+msgid ""
+"Any videos imported for the theme will not be available under All videos, "
+"instead they will display under Posts."
+msgstr ""
+"Alla videoklipp som importeras till temat kommer inte vara tillgängliga "
+"under \"Alla videoklipp\", istället kommer dessa visas under Inlägg."
+
+#: ../../views/help/automatic-import-frequency.html.php:2
+msgid ""
+"Import frequency is basically how often YouTube will be queried for new "
+"videos that might have been published into a playlist."
+msgstr ""
+"Importfrekvens är mer eller mindre hur ofta YouTube kommer frågas efter nya "
+"videoklipp som eventuellt har blivit publicerade till en spellista."
+
+#: ../../views/help/automatic-import-frequency.html.php:3
+msgid ""
+"To change the import frequency just visit Settings page in plugin menu and "
+"modify the option <em>Automatic import</em>."
+msgstr ""
+"För att ändra importfrekvensen, gå till Inställningssidan i tillägets meny "
+"och ändra valmöjligheten<em>Automatiska importer</em>."
+
+#: ../../views/help/automatic-import-frequency.html.php:6
+msgid ""
+"Please note that only one playlist is update with each query made to YouTube."
+msgstr ""
+"Notera att endast en spellista är uppdaterad med varje sökning gjord från "
+"YouTube."
+
+#: ../../views/help/automatic-import-frequency.html.php:7
+msgid ""
+"This means that for each period of time set under Automatic import the "
+"number of videos set in Settings page will be retrieved from the playlist "
+"that comes next in line."
+msgstr ""
+"Detta betyder att för varje tidsperiod som är satt under Automatiska "
+"importeringar, kommer antalet videoklipp på Inställningssidan plockas upp "
+"från nästa spellista som står på näst i kö."
+
+#: ../../views/help/automatic-import-frequency.html.php:8
+msgid ""
+"Also, make sure you don't exceed 50 videos per query since this is a "
+"limitation set by YouTube."
+msgstr ""
+"Notera även att inte överskrida 50 videoklipp per sökning eftersom detta är "
+"en limitering satt av YouTube."
+
+#: ../../views/help/automatic-import-frequency.html.php:11
+msgid ""
+"Please note that if videos from a playlist are already imported the plugin "
+"won't create double posts. All duplicates will be skipped but the import "
+"count for that playlist will get updated."
+msgstr ""
+"Notera att om ett videoklipp från en spellista redan existerar, så kommer "
+"detta inte att importeras, utan dessa kommer att skippas."
+
+#: ../../views/help/automatic-import-overview.html.php:2
+msgid "This screen provides access to all your automatic playlists."
+msgstr "Denna sida ger dig åtkomst till alla dina automatiska spellistor."
+
+#: ../../views/help/automatic-import-overview.html.php:3
+msgid "To create a new playlist just click Add New next to the page title."
+msgstr ""
+"För att skapa en ny spellista, klicka på \"Lägg till ny\" brevid sidtiteln."
+
+#: ../../views/help/automatic-import-overview.html.php:4
+msgid "To change import frequency please visit Settings page from plugin menu."
+msgstr ""
+"För att ändra importfrekvensen, besök Inställningssidan från tilläggsmenyn."
+
+#, fuzzy
+#~ msgctxt "video"
+#~ msgid "Videos"
+#~ msgstr "Videoclipuri"
+
+#, fuzzy
+#~ msgctxt "Video categories"
+#~ msgid "Video categories"
+#~ msgstr "Categorii video"

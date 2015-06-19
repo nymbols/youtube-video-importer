@@ -1,0 +1,1359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouTube WordPress plugin\n"
+"POT-Creation-Date: 2013-08-30 17:15+0200\n"
+"PO-Revision-Date: 2013-08-30 17:15+0200\n"
+"Last-Translator: YouTube Importer <admin@youtubeimporter.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_x:2c,1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../includes/functions.php:736
+msgid "Videos in playlist"
+msgstr ""
+
+#: ../../includes/functions.php:737
+msgid ""
+"No videos selected.<br />To create a playlist check some videos from the "
+"list on the right."
+msgstr ""
+
+#: ../../includes/functions.php:738
+msgid "Delete from playlist"
+msgstr ""
+
+#: ../../includes/functions.php:739
+msgid "Add shortcode into post"
+msgstr ""
+
+#: ../../includes/functions.php:792
+msgid "Processing, please wait..."
+msgstr ""
+
+#: ../../includes/functions.php:793
+msgid "Not done yet, please be patient..."
+msgstr ""
+
+#: ../../includes/functions.php:794
+msgid "There was an error while importing your thumbnails. Please try again."
+msgstr ""
+
+#: ../../includes/functions.php:806
+msgid "Import thumbnails"
+msgstr ""
+
+#: ../../includes/functions.php:818
+msgid "Sorry, there was an error, please try again."
+msgstr ""
+
+#: ../../includes/functions.php:822
+msgid "<strong>Error!</strong> Select some posts to import thumbnails for."
+msgstr ""
+
+#: ../../includes/functions.php:827
+msgid "Thumbnail imports work only for custom post type."
+msgstr ""
+
+#: ../../includes/functions.php:838
+msgid "Please select a valid action."
+msgstr ""
+
+#: ../../includes/functions.php:854
+msgid "All thumbnails successfully imported."
+msgstr ""
+
+#: ../../includes/functions.php:1125
+#, php-format
+msgid "Next automatic update scheduled in <strong>%s</strong>."
+msgstr ""
+
+#: ../../includes/functions.php:1126
+#, php-format
+msgid "Last updated playlist: <em>%s</em>."
+msgstr ""
+
+#: ../../includes/functions.php:1127
+msgid "Already existing videos will not be imported twice."
+msgstr ""
+
+#: ../../includes/functions.php:1153
+msgid "minute"
+msgstr ""
+
+#: ../../includes/functions.php:1154
+msgid "15 minutes"
+msgstr ""
+
+#: ../../includes/functions.php:1155
+msgid "30 minutes"
+msgstr ""
+
+#: ../../includes/functions.php:1156
+msgid "hour"
+msgstr ""
+
+#: ../../includes/functions.php:1157
+msgid "2 hours"
+msgstr ""
+
+#: ../../includes/functions.php:1158
+msgid "3 hours"
+msgstr ""
+
+#: ../../includes/functions.php:1159
+msgid "6 hours"
+msgstr ""
+
+#: ../../includes/functions.php:1160
+msgid "12 hours"
+msgstr ""
+
+#: ../../includes/functions.php:1161
+msgid "day"
+msgstr ""
+
+#: ../../includes/functions.php:1170
+msgid "10 videos"
+msgstr ""
+
+#: ../../includes/functions.php:1171
+msgid "20 videos"
+msgstr ""
+
+#: ../../includes/functions.php:1172
+msgid "30 videos"
+msgstr ""
+
+#: ../../includes/functions.php:1173
+msgid "40 videos"
+msgstr ""
+
+#: ../../includes/functions.php:1174
+msgid "50 videos"
+msgstr ""
+
+#: ../../includes/functions.php:1210
+msgid "Please enter a playlist ID."
+msgstr ""
+
+#: ../../includes/functions.php:1223
+#, php-format
+msgid "Playlist contains %d videos."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:56
+msgctxt "Videos"
+msgid "Videos"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:57
+msgctxt "Video"
+msgid "Video"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:58
+msgctxt "Add new video"
+msgid "Add new"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:59
+msgid "Add new video"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:60
+msgid "Edit video"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:61
+msgid "New video"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:62
+msgid "All videos"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:63
+msgid "View"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:64
+#: ../../includes/libs/custom-post-type.class.php:640
+msgid "Search"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:65
+msgid "No videos found"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:66
+msgid "No videos in trash"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:68
+#: ../../includes/libs/custom-post-type.class.php:201
+#: ../../includes/libs/custom-post-type.class.php:202
+msgid "Videos"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:101
+msgctxt "video"
+msgid "Video categories"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:102
+msgctxt "video"
+msgid "Video category"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:103
+msgid "Search video category"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:104
+msgid "All video categories"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:105
+msgid "Video category parent"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:106
+msgid "Video category parent:"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:107
+msgid "Edit video category"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:108
+msgid "Update video category"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:109
+msgid "Add new video category"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:110
+msgid "Video category name"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:111
+msgid "Video categories"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:149
+#, php-format
+msgid "Video updated <a href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:150
+msgid "Custom field updated."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:151
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:152
+msgid "Video updated."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:154
+#, php-format
+msgid "Video restored to version %s"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:155
+#, php-format
+msgid "Video published. <a href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:156
+msgid "Video saved."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:157
+#, php-format
+msgid "Video saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:158
+#, php-format
+msgid ""
+"Video will be published at: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">See video</a>"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:160
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:161
+#, php-format
+msgid "Video draft saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:163
+msgid "Please select a source"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:176
+#: ../../includes/libs/custom-post-type.class.php:177
+#: ../../includes/libs/custom-post-type.class.php:697
+msgid "Import videos"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:184
+msgid "Automatic YouTube video import"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:185
+#: ../../includes/libs/custom-post-type.class.php:554
+#: ../../views/plugin_settings.php:124
+msgid "Automatic import"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:193
+#: ../../includes/libs/custom-post-type.class.php:194
+msgid "Settings"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:215
+msgid "Overview"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:220
+msgid "Import frequency"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:225
+msgid "Import videos as posts"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:385
+#: ../../includes/libs/custom-post-type.class.php:444
+msgid "Please fill all required fields marked with *."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:509
+msgid "Add new playlist"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:537
+#, php-format
+msgid "Edit playlist <em>%s</em>"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:555
+msgid "Add New"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:604
+msgid "Video list"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:662
+#: ../../includes/libs/video-import-list-table.class.php:119
+#: ../../includes/libs/video-list-table.class.php:185
+msgid "Video ID"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:663
+#: ../../includes/libs/video-import-list-table.class.php:121
+#: ../../includes/libs/video-list-table.class.php:186
+msgid "Duration"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1073
+#, php-format
+msgid "Out of %d videos, %d were successfully imported and %d were skipped."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1079
+msgid ""
+"No videos selected for importing. Please select some videos by checking the "
+"checkboxes next to video title."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1082
+msgid "Please select an action."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1085
+#: ../../includes/libs/custom-post-type.class.php:1088
+msgid "Cheatin' uh?"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1107
+msgid "Importing, please wait..."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1108
+msgid "Not done yet, still importing. You'll have to wait a bit longer."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1157
+msgid "Video settings"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1166
+msgid "Live video"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1191
+msgid "Video shortcode"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1214
+msgid "Import YouTube thumbnail"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1245
+msgid "Add video/playlist into post."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1246
+msgid "Add shortcode"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1246
+msgid "Add video shortcode"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1302
+#: ../../views/plugin_settings.php:156
+msgid "Player size"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1304
+#: ../../includes/libs/video-list-table.class.php:56
+#: ../../views/plugin_settings.php:158
+msgid "Aspect ratio"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1318
+#: ../../includes/libs/latest-videos-widget.class.php:163
+#: ../../includes/libs/video-list-table.class.php:43
+#: ../../views/plugin_settings.php:172
+msgid "Width"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1320
+#: ../../includes/libs/latest-videos-widget.class.php:165
+#: ../../views/plugin_settings.php:174
+msgid "Height"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1325
+#: ../../views/plugin_settings.php:179
+msgid "Display video in custom post"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1330
+#: ../../views/plugin_settings.php:184
+msgid "Above post content"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1331
+#: ../../views/plugin_settings.php:185
+msgid "Below post content"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1342
+#: ../../includes/libs/latest-videos-widget.class.php:168
+#: ../../includes/libs/video-list-table.class.php:42
+#: ../../views/plugin_settings.php:197
+msgid "Volume"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1345
+#: ../../includes/libs/latest-videos-widget.class.php:170
+#: ../../views/plugin_settings.php:200
+msgid "number between 0 (mute) and 100 (max)"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1349
+#: ../../views/plugin_settings.php:205
+msgid "Autoplay"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1352
+msgid "when checked, video will start playing once page is loaded"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1357
+msgid "Show controls"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1360
+msgid "when checked, player will display video controls"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1365
+msgid "Allow full screen"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1372
+#: ../../views/plugin_settings.php:220
+msgid "Autohide controls"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1377
+#: ../../views/plugin_settings.php:225
+msgid "Always show controls"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1378
+#: ../../views/plugin_settings.php:226
+msgid "Hide controls on load and when playing"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1379
+msgid "Hide controls when playing"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1391
+#: ../../views/plugin_settings.php:238
+msgid "Player theme"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1396
+#: ../../views/plugin_settings.php:243
+msgid "Dark"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1397
+#: ../../views/plugin_settings.php:244
+msgid "Light"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1409
+#: ../../views/plugin_settings.php:255
+msgid "Player color"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1414
+#: ../../views/plugin_settings.php:260
+msgid "Red"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1415
+#: ../../views/plugin_settings.php:261
+msgid "White"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1427
+#: ../../views/plugin_settings.php:272
+msgid "No YouTube logo on controls bar"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1430
+#: ../../views/plugin_settings.php:275
+msgid ""
+"Setting the color parameter to white will cause this option to be ignored."
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1435
+#: ../../views/plugin_settings.php:280
+msgid "Annotations"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1440
+#: ../../views/plugin_settings.php:285
+msgid "Show annotations by default"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1441
+#: ../../views/plugin_settings.php:286
+msgid "Hide annotations"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1452
+#: ../../views/plugin_settings.php:297
+msgid "Show related videos"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1455
+#: ../../views/plugin_settings.php:300
+msgid "when checked, after video ends player will display related videos"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1460
+msgid "Show video title in player"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1465
+#: ../../views/plugin_settings.php:310
+msgid "Disable keyboard player controls"
+msgstr ""
+
+#: ../../includes/libs/custom-post-type.class.php:1468
+#: ../../views/plugin_settings.php:313
+msgid "Works only when player has focus."
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:13
+msgid "The most recent videos on your site."
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:24
+msgid "Recent videos"
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:131
+#: ../../includes/libs/playlists-list-table.class.php:205
+#: ../../includes/libs/video-import-list-table.class.php:117
+#: ../../includes/libs/video-list-table.class.php:184
+msgid "Title"
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:135
+msgid "Number of videos to show"
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:140
+msgid "Display YouTube thumbnails?"
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:144
+msgid "Show as video playlist"
+msgstr ""
+
+#: ../../includes/libs/latest-videos-widget.class.php:149
+msgid "Aspect"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:61
+msgid "Start"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:61
+msgid "Pause"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:65
+msgid "Edit"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:66
+#: ../../includes/libs/playlists-list-table.class.php:223
+msgid "Delete"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:67
+msgid "Reset"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:87
+msgid "User uploads"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:90
+msgid "Video playlist"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:126
+msgid "never"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:135
+msgid "Not in queue"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:149
+#, php-format
+msgid "Import as <strong>%s</strong> posts."
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:152
+msgid "Theme not active. Videos will be imported as plugin custom posts."
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:155
+msgid "Import as custom post."
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:206
+msgid "Playlist type"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:207
+#: ../../views/manage_playlist.php:104
+msgid "Import in category"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:208
+#: ../../views/manage_playlist.php:43
+msgid "Playlist ID"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:209
+msgid "Imported"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:210
+msgid "Total videos"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:211
+msgid "Queried on"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:212
+msgid "Status"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:224
+msgid "Remove from import queue"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:225
+msgid "Add to import queue"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:246
+msgid "All automatic importers"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:246
+msgid "All"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:247
+msgid "Active automatic importers"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:247
+msgid "Active"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:248
+msgid "Inactive automatic importers"
+msgstr ""
+
+#: ../../includes/libs/playlists-list-table.class.php:248
+msgid "Inactive"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:21
+#, php-format
+msgid "Column <em>%s</em> was not found."
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:47
+msgid "View on YouTube"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:75
+#, php-format
+msgid " (%d votes)"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:118
+#: ../../includes/libs/video-list-table.class.php:187
+msgid "Category"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:120
+msgid "Uploader"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:122
+#: ../../views/import_videos.php:69
+msgid "Rating"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:123
+msgid "Views"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:124
+#: ../../includes/libs/video-list-table.class.php:140
+#: ../../views/plugin_settings.php:110
+msgid "Published"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:161
+#: ../../views/manage_playlist.php:95 ../../views/manage_playlist.php:146
+msgid "Create categories from YouTube"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:163
+#: ../../views/manage_playlist.php:97 ../../views/manage_playlist.php:148
+msgid "Select category (optional)"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:169
+#: ../../views/manage_playlist.php:55
+msgid "Current user"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:177
+msgid "Bulk actions"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:178
+msgid "Import"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:182
+msgid "Import into category"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:187
+#: ../../views/manage_playlist.php:65
+msgid "Import as user"
+msgstr ""
+
+#: ../../includes/libs/video-import-list-table.class.php:191
+msgid "Apply"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:57
+msgid "Auto play"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:58
+#: ../../views/plugin_settings.php:210
+msgid "Show player controls"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:59
+msgid "Insert shortcode"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:60
+#: ../../views/manage_playlist.php:5
+msgid "Cancel"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:66
+msgid "Get video shortcode"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:139
+msgid "Y/m/d"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:157
+msgid "All categories"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:171
+msgid "Categories"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:173
+msgid "Filter"
+msgstr ""
+
+#: ../../includes/libs/video-list-table.class.php:188
+msgid "Date"
+msgstr ""
+
+#: ../../views/import_videos.php:2
+msgid "Import videos from YouTube."
+msgstr ""
+
+#: ../../views/import_videos.php:3
+msgid ""
+"Enter your search criteria and submit. All found videos will be displayed "
+"and you can selectively import videos into WordPress."
+msgstr ""
+
+#: ../../views/import_videos.php:13 ../../views/manage_playlist.php:26
+msgid "Feed type"
+msgstr ""
+
+#: ../../views/import_videos.php:17
+msgid "YouTube user ID"
+msgstr ""
+
+#: ../../views/import_videos.php:17
+msgid "User feed"
+msgstr ""
+
+#: ../../views/import_videos.php:18
+msgid "YouTube playlist ID"
+msgstr ""
+
+#: ../../views/import_videos.php:18
+msgid "Playlist feed"
+msgstr ""
+
+#: ../../views/import_videos.php:19
+msgid "Search query"
+msgstr ""
+
+#: ../../views/import_videos.php:19
+msgid "Search query feed"
+msgstr ""
+
+#: ../../views/import_videos.php:21
+msgid "Select the type of feed you want to load."
+msgstr ""
+
+#: ../../views/import_videos.php:26
+msgid "Number of videos to retrieve"
+msgstr ""
+
+#: ../../views/import_videos.php:29
+msgid ""
+"Enter any number of results you want to retrieve. Results will be displayed "
+"paginated."
+msgstr ""
+
+#: ../../views/import_videos.php:34
+msgid "Video duration"
+msgstr ""
+
+#: ../../views/import_videos.php:37
+msgid "Any"
+msgstr ""
+
+#: ../../views/import_videos.php:38
+msgid "Short (under 4min.)"
+msgstr ""
+
+#: ../../views/import_videos.php:39
+msgid "Medium (between 4 and 20min.)"
+msgstr ""
+
+#: ../../views/import_videos.php:40
+msgid "Long (over 20min.)"
+msgstr ""
+
+#: ../../views/import_videos.php:47
+msgid "Search by"
+msgstr ""
+
+#: ../../views/import_videos.php:51
+msgid ""
+"Enter playlist ID, user ID or search query according to Feed Type selection."
+msgstr ""
+
+#: ../../views/import_videos.php:56
+msgid "Order by"
+msgstr ""
+
+#: ../../views/import_videos.php:59
+msgid "Date of publishing"
+msgstr ""
+
+#: ../../views/import_videos.php:60
+msgid "Number of views"
+msgstr ""
+
+#: ../../views/import_videos.php:62
+msgid "Position in playlist"
+msgstr ""
+
+#: ../../views/import_videos.php:63
+msgid "Number of comments"
+msgstr ""
+
+#: ../../views/import_videos.php:64
+msgid "Duration (longest to shortest)"
+msgstr ""
+
+#: ../../views/import_videos.php:65
+msgid "Reversed position in playlist"
+msgstr ""
+
+#: ../../views/import_videos.php:66
+msgid "Video title"
+msgstr ""
+
+#: ../../views/import_videos.php:68
+msgid "Search relevance"
+msgstr ""
+
+#: ../../views/import_videos.php:80 ../../views/manage_playlist.php:119
+#, php-format
+msgid "Import in <strong>%s</strong>?"
+msgstr ""
+
+#: ../../views/import_videos.php:85 ../../views/manage_playlist.php:124
+#, php-format
+msgid ""
+"If you choose to import in %s, all videos will be imported as regular posts "
+"and will be visible in your blog categories."
+msgstr ""
+
+#: ../../views/import_videos.php:100
+msgid "Load feed"
+msgstr ""
+
+#: ../../views/manage_playlist.php:19
+msgid "Playlist name"
+msgstr ""
+
+#: ../../views/manage_playlist.php:22
+msgid "A name for your internal reference."
+msgstr ""
+
+#: ../../views/manage_playlist.php:31
+msgid "User playlist"
+msgstr ""
+
+#: ../../views/manage_playlist.php:32
+msgid "YouTube playlist"
+msgstr ""
+
+#: ../../views/manage_playlist.php:39
+msgid "Choose the kind of playlist you want to import."
+msgstr ""
+
+#: ../../views/manage_playlist.php:46
+msgid "Check playlist"
+msgstr ""
+
+#: ../../views/manage_playlist.php:47
+msgid "Enter playlist ID or user ID according to Feed Type selection."
+msgstr ""
+
+#: ../../views/manage_playlist.php:68
+msgid "Video posts will be created as written by the selected user."
+msgstr ""
+
+#: ../../views/manage_playlist.php:74
+msgid "Add to import queue?"
+msgstr ""
+
+#: ../../views/manage_playlist.php:77
+msgid ""
+"If checked, playlist will be added to importing queue and will import when "
+"its turn comes."
+msgstr ""
+
+#: ../../views/manage_playlist.php:107
+msgid "Select category for all videos imported from this playlist."
+msgstr ""
+
+#: ../../views/manage_playlist.php:154
+#, php-format
+msgid "Import in <strong>%s</strong> category"
+msgstr ""
+
+#: ../../views/manage_playlist.php:157
+msgid ""
+"Select category for all videos imported from this playlist as theme posts."
+msgstr ""
+
+#: ../../views/manage_playlist.php:175
+msgid "Save"
+msgstr ""
+
+#: ../../views/new_video.php:3
+msgid "step 1"
+msgstr ""
+
+#: ../../views/new_video.php:7
+msgid "Please enter the video ID you want to search for:"
+msgstr ""
+
+#: ../../views/new_video.php:9
+msgid "how to get video ID"
+msgstr ""
+
+#: ../../views/new_video.php:13
+#, php-format
+msgid "Import as <strong>%s</strong> post"
+msgstr ""
+
+#: ../../views/new_video.php:16
+msgid ""
+"<strong>Step 1</strong> - open any YouTube video page with your favourite "
+"browser."
+msgstr ""
+
+#: ../../views/new_video.php:17
+msgid ""
+"<strong>Step 2</strong> - From your browser address bar copy the value from "
+"variable v (highlighted in image below)."
+msgstr ""
+
+#: ../../views/new_video.php:19
+msgid ""
+"<strong>Step 3</strong> - paste the ID into the field above and hit Search "
+"video below."
+msgstr ""
+
+#: ../../views/new_video.php:23
+msgid "Search video"
+msgstr ""
+
+#: ../../views/plugin_settings.php:3
+msgid "Videos - Plugin settings"
+msgstr ""
+
+#: ../../views/plugin_settings.php:9
+msgid "Visibility"
+msgstr ""
+
+#: ../../views/plugin_settings.php:11
+msgid "Allow videos in front-end as posts"
+msgstr ""
+
+#: ../../views/plugin_settings.php:16
+msgid ""
+"Videos are not available in front-end to be used as posts. You can only "
+"incorporate them in playlists or display them in regular posts."
+msgstr ""
+
+#: ../../views/plugin_settings.php:18
+msgid ""
+"Videos are available in front-end as regular posts are and can also be "
+"incorporated in playlists or displayed in regular posts."
+msgstr ""
+
+#: ../../views/plugin_settings.php:25
+msgid "Allow videos in archive pages"
+msgstr ""
+
+#: ../../views/plugin_settings.php:29
+msgid ""
+"When checked, videos will be visible on all pages displaying lists of video "
+"posts."
+msgstr ""
+
+#: ../../views/plugin_settings.php:35
+msgid "Rewrite (pretty links)"
+msgstr ""
+
+#: ../../views/plugin_settings.php:37
+msgid "Post slug"
+msgstr ""
+
+#: ../../views/plugin_settings.php:43
+msgid "Taxonomy slug"
+msgstr ""
+
+#: ../../views/plugin_settings.php:50
+msgid "Bulk Import settings"
+msgstr ""
+
+#: ../../views/plugin_settings.php:52
+msgid "Import categories"
+msgstr ""
+
+#: ../../views/plugin_settings.php:55
+msgid ""
+"Categories retrieved from YouTube will be automatically created and videos "
+"assigned to them accordingly."
+msgstr ""
+
+#: ../../views/plugin_settings.php:60
+msgid "Import date"
+msgstr ""
+
+#: ../../views/plugin_settings.php:63
+msgid "Imports will have YouTube's publishing date."
+msgstr ""
+
+#: ../../views/plugin_settings.php:68
+msgid "Set featured image"
+msgstr ""
+
+#: ../../views/plugin_settings.php:71
+msgid "YouTube video thumbnail will be set as post featured image."
+msgstr ""
+
+#: ../../views/plugin_settings.php:72
+msgid ""
+"If you choose to import thumbnails as featured images please lower the "
+"number<br /> of videos imported under <strong>Automatic import</strong> "
+"option to 10 or 20 videos."
+msgstr ""
+
+#: ../../views/plugin_settings.php:77
+msgid "Import titles"
+msgstr ""
+
+#: ../../views/plugin_settings.php:80
+msgid "Automatically import video titles from feeds as post title."
+msgstr ""
+
+#: ../../views/plugin_settings.php:85
+msgid "Import descriptions as"
+msgstr ""
+
+#: ../../views/plugin_settings.php:90
+msgid "post content"
+msgstr ""
+
+#: ../../views/plugin_settings.php:91
+msgid "post excerpt"
+msgstr ""
+
+#: ../../views/plugin_settings.php:92
+msgid "post content and excerpt"
+msgstr ""
+
+#: ../../views/plugin_settings.php:93
+msgid "do not import"
+msgstr ""
+
+#: ../../views/plugin_settings.php:100
+msgid ""
+"Import video description from feeds as post description, excerpt or none."
+msgstr ""
+
+#: ../../views/plugin_settings.php:105
+msgid "Import status"
+msgstr ""
+
+#: ../../views/plugin_settings.php:111
+msgid "Draft"
+msgstr ""
+
+#: ../../views/plugin_settings.php:112
+msgid "Pending"
+msgstr ""
+
+#: ../../views/plugin_settings.php:119
+msgid "Bulk imported videos will have this status."
+msgstr ""
+
+#: ../../views/plugin_settings.php:126
+msgid "Import "
+msgstr ""
+
+#: ../../views/plugin_settings.php:135
+msgid "every"
+msgstr ""
+
+#: ../../views/plugin_settings.php:144
+msgid "How often should YouTube be queried for playlist updates."
+msgstr ""
+
+#: ../../views/plugin_settings.php:150
+msgid "Player settings"
+msgstr ""
+
+#: ../../views/plugin_settings.php:151
+msgid ""
+"General YouTube player settings. These settings will be applied to any new "
+"video by default and can be changed individually for every imported video."
+msgstr ""
+
+#: ../../views/plugin_settings.php:215
+msgid "Allow fullscreen"
+msgstr ""
+
+#: ../../views/plugin_settings.php:227
+msgid "Fade out progress bar when playing"
+msgstr ""
+
+#: ../../views/plugin_settings.php:305
+msgid "Show video title by default"
+msgstr ""
+
+#: ../../views/plugin_settings.php:314
+msgid ""
+"Controls:<br> - spacebar : play/pause,<br> - arrow left : jump back 10% in "
+"current video,<br> - arrow-right: jump ahead 10% in current video,<br> - "
+"arrow up - volume up,<br> - arrow down - volume down."
+msgstr ""
+
+#: ../../views/plugin_settings.php:320
+msgid "Purchase code"
+msgstr ""
+
+#: ../../views/plugin_settings.php:321
+msgid "Envato purchase code will enable automatic updates."
+msgstr ""
+
+#: ../../views/plugin_settings.php:325
+msgid "Enter purchase code"
+msgstr ""
+
+#: ../../views/plugin_settings.php:328
+msgid ""
+"You can find your purchase code by accessing your Envato marketplace "
+"Downloads page <br />and clicking on Licence Certificate link that can be "
+"found under your plugin purchase."
+msgstr ""
+
+#: ../../views/plugin_settings.php:335
+msgid "Save settings"
+msgstr ""
+
+#: ../../views/help/automatic-import-as-post.html.php:2
+msgid ""
+"Depending on the WordPress theme used, the plugin can import videos directly "
+"as posts. Currently supported themes are DeTube and Avada."
+msgstr ""
+
+#: ../../views/help/automatic-import-as-post.html.php:3
+msgid ""
+"To import videos as posts the first requirement is to have any of the "
+"supported themes installed and activated."
+msgstr ""
+
+#: ../../views/help/automatic-import-as-post.html.php:4
+msgid ""
+"If the plugin detects the theme, on all import pages (single post, manual "
+"import and automatic import) it will display a new option asking if it "
+"should do the import as regular post."
+msgstr ""
+
+#: ../../views/help/automatic-import-as-post.html.php:5
+msgid ""
+"Any videos imported for the theme will not be available under All videos, "
+"instead they will display under Posts."
+msgstr ""
+
+#: ../../views/help/automatic-import-frequency.html.php:2
+msgid ""
+"Import frequency is basically how often YouTube will be queried for new "
+"videos that might have been published into a playlist."
+msgstr ""
+
+#: ../../views/help/automatic-import-frequency.html.php:3
+msgid ""
+"To change the import frequency just visit Settings page in plugin menu and "
+"modify the option <em>Automatic import</em>."
+msgstr ""
+
+#: ../../views/help/automatic-import-frequency.html.php:6
+msgid ""
+"Please note that only one playlist is update with each query made to YouTube."
+msgstr ""
+
+#: ../../views/help/automatic-import-frequency.html.php:7
+msgid ""
+"This means that for each period of time set under Automatic import the "
+"number of videos set in Settings page will be retrieved from the playlist "
+"that comes next in line."
+msgstr ""
+
+#: ../../views/help/automatic-import-frequency.html.php:8
+msgid ""
+"Also, make sure you don't exceed 50 videos per query since this is a "
+"limitation set by YouTube."
+msgstr ""
+
+#: ../../views/help/automatic-import-frequency.html.php:11
+msgid ""
+"Please note that if videos from a playlist are already imported the plugin "
+"won't create double posts. All duplicates will be skipped but the import "
+"count for that playlist will get updated."
+msgstr ""
+
+#: ../../views/help/automatic-import-overview.html.php:2
+msgid "This screen provides access to all your automatic playlists."
+msgstr ""
+
+#: ../../views/help/automatic-import-overview.html.php:3
+msgid "To create a new playlist just click Add New next to the page title."
+msgstr ""
+
+#: ../../views/help/automatic-import-overview.html.php:4
+msgid "To change import frequency please visit Settings page from plugin menu."
+msgstr ""

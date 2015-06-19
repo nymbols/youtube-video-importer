@@ -1,0 +1,22 @@
+.button.loading{
+	background-image:url(../images/loading-small.gif)!important;
+	background-position:5px center!important;
+	background-repeat:no-repeat!important;
+	padding-left:25px!important;
+	outline:0!important;
+}
+.description.loading-message{
+	background-image:url(../images/loading-small.gif)!important;
+	background-position:5px center!important;
+	background-repeat:no-repeat!important;
+	padding-left:25px!important;
+	color:#999;
+}
+#playlist-alert{
+	display:block;
+	color:#ff3d3a;
+	padding:10px 0;
+}
+	#playlist-alert strong{
+		color:#000;
+	}

@@ -1,0 +1,15 @@
+a.yti-active{
+	color:green;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.yti-installed{
+	color:#000;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.not-installed{
+	color:#999;
+}
