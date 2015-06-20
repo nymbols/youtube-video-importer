@@ -1,5 +1,4 @@
-=== Plugin Name ===
-Plugin Name: YouTube Video Importer
+=== YouTube Video Importer ===
 Contributors: youtubeimporter
 Donate link: http://youtubeimporter.com
 Tags: Youtube, Video, YouTube API V3, Auto Import, YouTube Auto Import
@@ -8,7 +7,7 @@ Tested up to: 4.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Description: Import YouTube videos directly into WordPress and display them as posts or embeded in existing posts and/or pages as single videos or playlists.
+Import YouTube videos directly into WordPress and display them as posts or embeded in existing posts and/or pages as single videos or playlists.
 
 == Description ==
 Do you want to make your blog outshine others? If yes then your blog posts need to be more enticing for the onlooker. Now you can easily add YouTube videos to your Wordpress blog posts through the assistance of the YouTube Importer Video WordPress Plugin. The best part is that you would be able to get the video with the complete set of information that includes descriptions, categories and the titles from YouTube. The prime objective of this plug-in is to facilitate the user to embed YouTube videos with ease. This YouTube Importer automates the process of video attachment to the video type. Now creating a video blog is not going to be frustrating and time consuming because this plug-in allows bulk imports just in a matter of minutes.
@@ -31,30 +30,30 @@ Smart Video player options
 
 If you want to have a more refined blog post you can also look into the video options available. These primarily include Player size, Video position in the post, Playback Volume, Autoplay, Show player controls, Fullscreen, Controls Autohide, Player theme, Player color, Hide your YouTube logo on control bars, Annotations, Related Videos, Video Titles and Keyboard Controls. You can even choose to override the default settings of the player.
 
-    Player size primarily controls the size of the player by inputting the aspect ratio and the width. The plug-in calculates the height with the help of these inputs.
-    You can now display the video at the top of the content or below the content using the Video position.
-    The Playback volume is generally set to the default setting.
-    Once the page is loaded the autoplay automatically displays the video.
-    Full screen options works well when you want to display the player on a full screen mode.
-    Control autohide is the apt selection when you want to hide controls.
-    Related videos will show the list of videos available after the current video comes to a pause.
-    The video title will be displayed on the upper side of the player using the Video title option.
-    The keyboard controls on the player can be disabled using the keyboard controls.
+* Player size primarily controls the size of the player by inputting the aspect ratio and the width. The plug-in calculates the height with the help of these inputs.
+* You can now display the video at the top of the content or below the content using the Video position.
+* The Playback volume is generally set to the default setting.
+* Once the page is loaded the autoplay automatically displays the video.
+* Full screen options works well when you want to display the player on a full screen mode.
+* Control autohide is the apt selection when you want to hide controls.
+* Related videos will show the list of videos available after the current video comes to a pause.
+* The video title will be displayed on the upper side of the player using the Video title option.
+* The keyboard controls on the player can be disabled using the keyboard controls.
 
 Key qualities of YouTube Importer Video WordPress Plugin:
 
 The following are the key qualities that should compel you to go for this Video Plug-in right away.
 
-    This plug-in allows the use of multiple players on the same page. The exclusive YouTube HTML5 player is also supported by this plug-in so that you can easily watch your favorite videos on your iPad/iPhone.
-    The design of this plug-in is touch-enable and responsive.
+* This plug-in allows the use of multiple players on the same page. The exclusive YouTube HTML5 player is also supported by this plug-in so that you can easily watch your favorite videos on your iPad/iPhone.
+* The design of this plug-in is touch-enable and responsive.
 
 Get hold of this YouTube Importer Video WordPress Plugin today and make your blog a success. 
 
 == Installation ==
 
-1. Upload `youtube-video-imorter.php` to the `/wp-content/plugins/` directory
+1. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Put Your YouTube API in Settings
 
 == Screenshots ==
 == Changelog ==
