@@ -1,4 +1,5 @@
-Plugin Name: YouTube Importer Video WordPress Plugin
+=== Plugin Name ===
+Plugin Name: YouTube Video Importer
 Contributors: youtubeimporter
 Donate link: http://youtubeimporter.com
 Tags: Youtube, Video, YouTube API V3, Auto Import, YouTube Auto Import
@@ -9,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Description: Import YouTube videos directly into WordPress and display them as posts or embeded in existing posts and/or pages as single videos or playlists.
 
+== Description ==
 Do you want to make your blog outshine others? If yes then your blog posts need to be more enticing for the onlooker. Now you can easily add YouTube videos to your Wordpress blog posts through the assistance of the YouTube Importer Video WordPress Plugin. The best part is that you would be able to get the video with the complete set of information that includes descriptions, categories and the titles from YouTube. The prime objective of this plug-in is to facilitate the user to embed YouTube videos with ease. This YouTube Importer automates the process of video attachment to the video type. Now creating a video blog is not going to be frustrating and time consuming because this plug-in allows bulk imports just in a matter of minutes.
 
 Amazing bulk import feature:
@@ -47,3 +49,12 @@ The following are the key qualities that should compel you to go for this Video 
     The design of this plug-in is touch-enable and responsive.
 
 Get hold of this YouTube Importer Video WordPress Plugin today and make your blog a success. 
+
+== Installation ==
+
+1. Upload `youtube-video-imorter.php` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+
+== Screenshots ==
+== Changelog ==
