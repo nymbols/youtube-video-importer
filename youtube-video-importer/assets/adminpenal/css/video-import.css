@@ -1,0 +1,158 @@
+a:hover, a:active, a:focus{
+   outline: 0;
+}
+
+label.yvi_error{
+	color:red;
+	font-weight:bold;
+}
+input.yvi_error{
+	border:1px red solid!important;
+}
+
+.yvi-ajax-response{
+	/*
+	display:block;
+	float:left;
+	*/
+	font-size:12px;
+	line-height:20px;
+	padding-top:2px;
+	padding-bottom:2px;
+	background-position:left center;
+	background-repeat:no-repeat;	
+}
+.yvi-ajax-response.loading{
+	background-image:url(../images/loading-small.gif);	
+	padding-left:20px;
+	font-style:italic;
+}
+.yvi-ajax-response.error{
+	background-image:url(../images/error-small.png);	
+	padding-left:20px;
+	color:#FF0000;
+}
+.yvi-ajax-response.success{
+	background-image:url(../images/success-small.png);	
+	padding-left:20px;
+	color:#000;
+}
+
+/**
+ * Videos list
+ */
+
+#yvi_server_error_output{
+	clear:both;
+	width:100%;
+}
+.tablenav{
+	height:auto!important;
+}
+
+.yvi-video-import-list{
+	display:block;
+	width:100%;
+	float:left;
+	clear:both;
+}
+	.tablenav .sel_all{
+		border:1px #CCC solid;
+		background:#FFF;
+		padding:0 10px 0;
+		margin-right:10px;
+		line-height:26px;
+		height:26px;
+		display:inline-block;
+	}
+
+	.yvi-video-item{
+		width:31%;
+		float:left;
+		max-width:31%;
+		margin-right:2%;
+		margin-bottom:10px;
+		box-sizing:border-box;
+		border:1px #CCC solid;
+		background:#EEE;
+		padding:20px;
+	}
+	.yvi-video-item.list{
+		width:100%;
+		float:none;
+		max-width:100%;
+		margin-right:0;
+	}
+		.yvi-video-item.checked{
+			background-color:#FFF;
+			border:1px #000 solid;
+		}
+	
+		.yvi-video-item div.item-title{
+			margin-bottom:10px;
+		}
+	
+		.yvi-video-item input.item-title{
+			width:100%;
+			font-size:1.5em;			
+		}
+		
+		.yvi-video-item .yvi-left{
+			width:30%;
+			float:left;
+		}
+			.yvi-video-item .item-image{
+				width:100%;
+				max-width:100%;
+				vertical-align:middle;
+			}
+		.yvi-video-item .yvi-right{
+			float:right;
+			width:68%;
+		}			
+			.yvi-video-item textarea{
+				font-size:12px;	
+				width:100%;
+				height:100px;
+				resize: vertical; /* user can resize vertically, but width is fixed */
+			}
+		.yvi-video-item .controls{
+			width:100%;
+			clear:both;
+			padding-top:10px;
+		}	
+			.yvi-video-item .controls .duration{
+				font-size:1.2em;
+			}
+			.yvi-video-item .controls label{
+				font-size:1em;
+				line-height:1em;
+				font-weight:bold;
+			}
+			.yvi-video-item .controls a{
+				text-decoration:none;
+			}
+	.yvi-ajax-response{
+		display:block;		
+	}
+
+#search_box{
+	background:#FFF;
+	border-top:1px #CCC solid;
+	border-bottom:#CCC 1px solid;
+	padding:10px 20px 0;
+}	
+	
+@media all and (max-width: 1282px){
+	.yvi-video-item.grid{
+	    width:100%!important;
+		max-width:100%!important;
+	}
+}
+
+@media all and (min-width: 1282px) and (max-width: 1500px){
+	.yvi-video-item.grid{
+	    width: 48% !important;
+	    max-width: 48% !important;
+	}
+}			

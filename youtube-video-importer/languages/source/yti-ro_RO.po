@@ -1,0 +1,1445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouTube Video Importer\n"
+"POT-Creation-Date: 2013-09-05 14:18+0200\n"
+"PO-Revision-Date: 2013-09-05 14:18+0200\n"
+"Last-Translator: YouTube Importer <support@youtubeimporter.com>\n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x:2c,1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../functions/functions.php:740
+msgid "Videos in playlist"
+msgstr "Videoclipuri in playlist"
+
+#: ../../functions/functions.php:741
+msgid ""
+"No videos selected.<br />To create a playlist check some videos from the "
+"list on the right."
+msgstr ""
+"Nici un videoclip selectat.<br />Pentru a crea un playlist bifati "
+"videoclipuri in lista din dreapta."
+
+#: ../../functions/functions.php:742
+msgid "Delete from playlist"
+msgstr "Sterge din playlist"
+
+#: ../../functions/functions.php:743
+msgid "Add shortcode into post"
+msgstr "Adauga shortcode in articol"
+
+#: ../../functions/functions.php:796
+msgid "Processing, please wait..."
+msgstr "Se proceseaza, va rugam asteptati..."
+
+#: ../../functions/functions.php:797
+msgid "Not done yet, please be patient..."
+msgstr "Inca se proceseaza, va rugam asteptati..."
+
+#: ../../functions/functions.php:798
+msgid "There was an error while importing your thumbnails. Please try again."
+msgstr ""
+"A intervenit o eroare in timp ce se importau imaginile. Va rugam reincercati."
+
+#: ../../functions/functions.php:810
+msgid "Import thumbnails"
+msgstr "Importa imagini"
+
+#: ../../functions/functions.php:822
+msgid "Sorry, there was an error, please try again."
+msgstr "Ne pare rau dar a intervenit o eroare, va ruam reincercati."
+
+#: ../../functions/functions.php:826
+msgid "<strong>Error!</strong> Select some posts to import thumbnails for."
+msgstr ""
+"<strong>Eroare!</strong> Selectati articolele pentru care doriti sa "
+"importati imagini."
+
+#: ../../functions/functions.php:831
+msgid "Thumbnail imports work only for custom post type."
+msgstr "Importul de imagini functioneaza doar pentru articolele speciale."
+
+#: ../../functions/functions.php:842
+msgid "Please select a valid action."
+msgstr "Va rugam sa selectati o actiune valida."
+
+#: ../../functions/functions.php:858
+msgid "All thumbnails successfully imported."
+msgstr "Toate imaginile au fost importate."
+
+#: ../../functions/functions.php:1134
+#, php-format
+msgid "Next automatic update scheduled in <strong>%s</strong>."
+msgstr "Urmatorul update automat va avea loc in <strong>%s</strong>"
+
+#: ../../functions/functions.php:1135
+#, php-format
+msgid "Last updated playlist: <em>%s</em>."
+msgstr "Ultimul playlist importat: <em>%s</em>."
+
+#: ../../functions/functions.php:1136
+msgid "Already existing videos will not be imported twice."
+msgstr "Video-urile deja existente nu vor fi importate din nou."
+
+#: ../../functions/functions.php:1162
+msgid "minute"
+msgstr "minut"
+
+#: ../../functions/functions.php:1163
+msgid "15 minutes"
+msgstr "15 minute"
+
+#: ../../functions/functions.php:1164
+msgid "30 minutes"
+msgstr "30 de minute"
+
+#: ../../functions/functions.php:1165
+msgid "hour"
+msgstr "ora"
+
+#: ../../functions/functions.php:1166
+msgid "2 hours"
+msgstr "2 ore"
+
+#: ../../functions/functions.php:1167
+msgid "3 hours"
+msgstr "3 ore"
+
+#: ../../functions/functions.php:1168
+msgid "6 hours"
+msgstr "6 ore"
+
+#: ../../functions/functions.php:1169
+msgid "12 hours"
+msgstr "12 ore"
+
+#: ../../functions/functions.php:1170
+msgid "day"
+msgstr "zi"
+
+#: ../../functions/functions.php:1179
+msgid "10 videos"
+msgstr "10 videoclipuri"
+
+#: ../../functions/functions.php:1180
+msgid "20 videos"
+msgstr "20 videoclipuri"
+
+#: ../../functions/functions.php:1181
+msgid "30 videos"
+msgstr "30 videoclipuri"
+
+#: ../../functions/functions.php:1182
+msgid "40 videos"
+msgstr "40 videoclipuri"
+
+#: ../../functions/functions.php:1183
+msgid "50 videos"
+msgstr "50 videoclipuri"
+
+#: ../../functions/functions.php:1219
+msgid "Please enter a playlist ID."
+msgstr "Va rugam sa inserati un ID de playlist."
+
+#: ../../functions/functions.php:1232
+#, php-format
+msgid "Playlist contains %d videos."
+msgstr "Playlist-ul contine %d videoclipuri."
+
+#: ../../functions/libs/custom-post-type.php:56
+msgctxt "Videos"
+msgid "Videos"
+msgstr "Videoclipuri"
+
+#: ../../functions/libs/custom-post-type.php:57
+msgctxt "Video"
+msgid "Video"
+msgstr "Videoclipuri"
+
+#: ../../functions/libs/custom-post-type.php:58
+msgctxt "Add new video"
+msgid "Add new"
+msgstr "Adauga"
+
+#: ../../functions/libs/custom-post-type.php:59
+msgid "Add new video"
+msgstr "Adauga videoclip"
+
+#: ../../functions/libs/custom-post-type.php:60
+msgid "Edit video"
+msgstr "Editeaza videoclip"
+
+#: ../../functions/libs/custom-post-type.php:61
+msgid "New video"
+msgstr "Videoclip nou"
+
+#: ../../functions/libs/custom-post-type.php:62
+msgid "All videos"
+msgstr "Lista video"
+
+#: ../../functions/libs/custom-post-type.php:63
+msgid "View"
+msgstr "Vizualizeaza"
+
+#: ../../functions/libs/custom-post-type.php:64
+#: ../../functions/libs/custom-post-type.php:640
+msgid "Search"
+msgstr "Cauta"
+
+#: ../../functions/libs/custom-post-type.php:65
+msgid "No videos found"
+msgstr "Nu s-au gasit videoclipuri"
+
+#: ../../functions/libs/custom-post-type.php:66
+msgid "No videos in trash"
+msgstr "Nu sunt videoclipuri sterse."
+
+#: ../../functions/libs/custom-post-type.php:68
+#: ../../functions/libs/custom-post-type.php:201
+#: ../../functions/libs/custom-post-type.php:202
+msgid "Videos"
+msgstr "Videoclipuri"
+
+#: ../../functions/libs/custom-post-type.php:101
+msgctxt "video"
+msgid "Video categories"
+msgstr "Categorii video"
+
+#: ../../functions/libs/custom-post-type.php:102
+msgctxt "video"
+msgid "Video category"
+msgstr "Categorii video"
+
+#: ../../functions/libs/custom-post-type.php:103
+msgid "Search video category"
+msgstr "Cauta in categoria video"
+
+#: ../../functions/libs/custom-post-type.php:104
+msgid "All video categories"
+msgstr "Toate categoriile video"
+
+#: ../../functions/libs/custom-post-type.php:105
+msgid "Video category parent"
+msgstr "Ascendent categorie video"
+
+#: ../../functions/libs/custom-post-type.php:106
+msgid "Video category parent:"
+msgstr "Ascendent categorie video:"
+
+#: ../../functions/libs/custom-post-type.php:107
+msgid "Edit video category"
+msgstr "Editeaza categorie video"
+
+#: ../../functions/libs/custom-post-type.php:108
+msgid "Update video category"
+msgstr "Actualizeaza categorie video"
+
+#: ../../functions/libs/custom-post-type.php:109
+msgid "Add new video category"
+msgstr "Adauga categorie video"
+
+#: ../../functions/libs/custom-post-type.php:110
+msgid "Video category name"
+msgstr "Nume categorie video"
+
+#: ../../functions/libs/custom-post-type.php:111
+msgid "Video categories"
+msgstr "Categorii video"
+
+#: ../../functions/libs/custom-post-type.php:149
+#, php-format
+msgid "Video updated <a href=\"%s\">See video</a>"
+msgstr "Videoclip actualizat <a href=\"%s\">Vezi videoclip</a>"
+
+#: ../../functions/libs/custom-post-type.php:150
+msgid "Custom field updated."
+msgstr "Camp special actualizat"
+
+#: ../../functions/libs/custom-post-type.php:151
+msgid "Custom field deleted."
+msgstr "Camp special sters"
+
+#: ../../functions/libs/custom-post-type.php:152
+msgid "Video updated."
+msgstr "Videoclip actualizat."
+
+#: ../../functions/libs/custom-post-type.php:154
+#, php-format
+msgid "Video restored to version %s"
+msgstr "Videclip restabilit la versiunea %s"
+
+#: ../../functions/libs/custom-post-type.php:155
+#, php-format
+msgid "Video published. <a href=\"%s\">See video</a>"
+msgstr "Videoclip publicat. <a href=\"%s\">Vezi videoclip</a>"
+
+#: ../../functions/libs/custom-post-type.php:156
+msgid "Video saved."
+msgstr "Videoclip salvat."
+
+#: ../../functions/libs/custom-post-type.php:157
+#, php-format
+msgid "Video saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr "Videoclip salvat. <a target=\"_blank\" href=\"%s\">Vezi videoclip</a>"
+
+#: ../../functions/libs/custom-post-type.php:158
+#, php-format
+msgid ""
+"Video will be published at: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">See video</a>"
+msgstr ""
+"Videoclipul va fi publicat la data: <strong>%1$s</strong>. <a target=\"_blank"
+"\" href=\"%2$s\">Vezi videoclip</a>"
+
+#: ../../functions/libs/custom-post-type.php:160
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../../functions/libs/custom-post-type.php:161
+#, php-format
+msgid "Video draft saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+"Ciorna videoclip-ului salvata.  <a target=\"_blank\" href=\"%s\">Vezi "
+"videoclip</a>"
+
+#: ../../functions/libs/custom-post-type.php:163
+msgid "Please select a source"
+msgstr "Va rugam selectati o sursa"
+
+#: ../../functions/libs/custom-post-type.php:176
+#: ../../functions/libs/custom-post-type.php:177
+#: ../../functions/libs/custom-post-type.php:697
+msgid "Import videos"
+msgstr "Import videoclip-uri"
+
+#: ../../functions/libs/custom-post-type.php:184
+msgid "Automatic YouTube video import"
+msgstr "Import automat videoclipuri YouTube"
+
+#: ../../functions/libs/custom-post-type.php:185
+#: ../../functions/libs/custom-post-type.php:554
+#: ../../yti_v/plugin_settings.php:124
+msgid "Automatic import"
+msgstr "Import automat"
+
+#: ../../functions/libs/custom-post-type.php:193
+#: ../../functions/libs/custom-post-type.php:194
+msgid "Settings"
+msgstr "Optiuni"
+
+#: ../../functions/libs/custom-post-type.php:215
+msgid "Overview"
+msgstr "Prezentare generala"
+
+#: ../../functions/libs/custom-post-type.php:220
+msgid "Import frequency"
+msgstr "Frecventa de import"
+
+#: ../../functions/libs/custom-post-type.php:225
+msgid "Import videos as posts"
+msgstr "Importa videoclip-uri ca articole"
+
+#: ../../functions/libs/custom-post-type.php:385
+#: ../../functions/libs/custom-post-type.php:444
+msgid "Please fill all required fields marked with *."
+msgstr "Completati toate campurile marcate cu *."
+
+#: ../../functions/libs/custom-post-type.php:509
+msgid "Add new playlist"
+msgstr "Adauga playlist"
+
+#: ../../functions/libs/custom-post-type.php:537
+#, php-format
+msgid "Edit playlist <em>%s</em>"
+msgstr "Editeaza playlist <em>%s</em>"
+
+#: ../../functions/libs/custom-post-type.php:555
+msgid "Add New"
+msgstr "Adauga"
+
+#: ../../functions/libs/custom-post-type.php:604
+msgid "Video list"
+msgstr "List videoclipuri"
+
+#: ../../functions/libs/custom-post-type.php:662
+#: ../../functions/libs/video-import-list-table.class.php:119
+#: ../../functions/libs/video-list-table-yti.php:185
+msgid "Video ID"
+msgstr "ID videoclip"
+
+#: ../../functions/libs/custom-post-type.php:663
+#: ../../functions/libs/video-import-list-table.class.php:121
+#: ../../functions/libs/video-list-table-yti.php:186
+msgid "Duration"
+msgstr "Durata"
+
+#: ../../functions/libs/custom-post-type.php:1073
+#, php-format
+msgid "Out of %d videos, %d were successfully imported and %d were skipped."
+msgstr "Din %d videoclipuri, %d au fost importate si %d au fost omise."
+
+#: ../../functions/libs/custom-post-type.php:1079
+msgid ""
+"No videos selected for importing. Please select some videos by checking the "
+"checkboxes next to video title."
+msgstr ""
+"Nici un videoclip selectat pentru a fi importat. Selectati videoclipuri "
+"bifand casetele din dreptul titlurilor videoclip-urilor."
+
+#: ../../functions/libs/custom-post-type.php:1082
+msgid "Please select an action."
+msgstr "Selectati o actiune."
+
+#: ../../functions/libs/custom-post-type.php:1085
+#: ../../functions/libs/custom-post-type.php:1088
+msgid "Cheatin' uh?"
+msgstr "Trisezi?"
+
+#: ../../functions/libs/custom-post-type.php:1107
+msgid "Importing, please wait..."
+msgstr "Se importa, va rugam asteptati..."
+
+#: ../../functions/libs/custom-post-type.php:1108
+msgid "Not done yet, still importing. You'll have to wait a bit longer."
+msgstr "Inca se importa. Va trebui sa mai asteptati."
+
+#: ../../functions/libs/custom-post-type.php:1157
+msgid "Video settings"
+msgstr "Optiuni video"
+
+#: ../../functions/libs/custom-post-type.php:1166
+msgid "Live video"
+msgstr "Video live"
+
+#: ../../functions/libs/custom-post-type.php:1191
+msgid "Video shortcode"
+msgstr "Shortcode video"
+
+#: ../../functions/libs/custom-post-type.php:1214
+msgid "Import YouTube thumbnail"
+msgstr "Importa imagine YouTube"
+
+#: ../../functions/libs/custom-post-type.php:1245
+msgid "Add video/playlist into post."
+msgstr "Adauga video/playlist in articol."
+
+#: ../../functions/libs/custom-post-type.php:1246
+msgid "Add shortcode"
+msgstr "Adauga shortcode"
+
+#: ../../functions/libs/custom-post-type.php:1246
+msgid "Add video shortcode"
+msgstr "Adauga shortcode videoclip"
+
+#: ../../functions/libs/custom-post-type.php:1302
+#: ../../yti_v/plugin_settings.php:156
+msgid "Player size"
+msgstr "Dimensiune video player"
+
+#: ../../functions/libs/custom-post-type.php:1304
+#: ../../functions/libs/video-list-table-yti.php:56
+#: ../../yti_v/plugin_settings.php:158
+msgid "Aspect ratio"
+msgstr "Aspect"
+
+#: ../../functions/libs/custom-post-type.php:1318
+#: ../../functions/libs//latest-videos-widget.php:163
+#: ../../functions/libs/video-list-table-yti.php:43
+#: ../../yti_v/plugin_settings.php:172
+msgid "Width"
+msgstr "Latime"
+
+#: ../../functions/libs/custom-post-type.php:1320
+#: ../../functions/libs//latest-videos-widget.php:165
+#: ../../yti_v/plugin_settings.php:174
+msgid "Height"
+msgstr "Inaltime"
+
+#: ../../functions/libs/custom-post-type.php:1325
+#: ../../yti_v/plugin_settings.php:179
+msgid "Display video in custom post"
+msgstr "Afiseaza videoclip in articol video"
+
+#: ../../functions/libs/custom-post-type.php:1330
+#: ../../yti_v/plugin_settings.php:184
+msgid "Above post content"
+msgstr "Deasupra continutului "
+
+#: ../../functions/libs/custom-post-type.php:1331
+#: ../../yti_v/plugin_settings.php:185
+msgid "Below post content"
+msgstr "Sub continut"
+
+#: ../../functions/libs/custom-post-type.php:1342
+#: ../../functions/libs//latest-videos-widget.php:168
+#: ../../functions/libs/video-list-table-yti.php:42
+#: ../../yti_v/plugin_settings.php:197
+msgid "Volume"
+msgstr "Volum audio"
+
+#: ../../functions/libs/custom-post-type.php:1345
+#: ../../functions/libs//latest-videos-widget.php:170
+#: ../../yti_v/plugin_settings.php:200
+msgid "number between 0 (mute) and 100 (max)"
+msgstr "numar intre 0 (mut) si 100 (maxim)"
+
+#: ../../functions/libs/custom-post-type.php:1349
+#: ../../yti_v/plugin_settings.php:205
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: ../../functions/libs/custom-post-type.php:1352
+msgid "when checked, video will start playing once page is loaded"
+msgstr ""
+"daca bifati, videoclipul va incepe redarea in momentul incarcarii paginii"
+
+#: ../../functions/libs/custom-post-type.php:1357
+msgid "Show controls"
+msgstr "Arata comenzi"
+
+#: ../../functions/libs/custom-post-type.php:1360
+msgid "when checked, player will display video controls"
+msgstr "daca bifati, player-ul video va afisa comenzile video"
+
+#: ../../functions/libs/custom-post-type.php:1365
+msgid "Allow full screen"
+msgstr "Permite ecran intreg"
+
+#: ../../functions/libs/custom-post-type.php:1372
+#: ../../yti_v/plugin_settings.php:220
+msgid "Autohide controls"
+msgstr "Ascundere comenzi"
+
+#: ../../functions/libs/custom-post-type.php:1377
+#: ../../yti_v/plugin_settings.php:225
+msgid "Always show controls"
+msgstr "Afisate tot timpul"
+
+#: ../../functions/libs/custom-post-type.php:1378
+#: ../../yti_v/plugin_settings.php:226
+msgid "Hide controls on load and when playing"
+msgstr "Ascunde comenzi la incarcarea paginii si in timpul redarii"
+
+#: ../../functions/libs/custom-post-type.php:1379
+msgid "Hide controls when playing"
+msgstr "Ascunde comenzile in timpul redarii"
+
+#: ../../functions/libs/custom-post-type.php:1391
+#: ../../yti_v/plugin_settings.php:238
+msgid "Player theme"
+msgstr "Tema player video"
+
+#: ../../functions/libs/custom-post-type.php:1396
+#: ../../yti_v/plugin_settings.php:243
+msgid "Dark"
+msgstr "Intunecat la culoare"
+
+#: ../../functions/libs/custom-post-type.php:1397
+#: ../../yti_v/plugin_settings.php:244
+msgid "Light"
+msgstr "Deschis la culoare"
+
+#: ../../functions/libs/custom-post-type.php:1409
+#: ../../yti_v/plugin_settings.php:255
+msgid "Player color"
+msgstr "Culoare player video"
+
+#: ../../functions/libs/custom-post-type.php:1414
+#: ../../yti_v/plugin_settings.php:260
+msgid "Red"
+msgstr "Rosu"
+
+#: ../../functions/libs/custom-post-type.php:1415
+#: ../../yti_v/plugin_settings.php:261
+msgid "White"
+msgstr "Alb"
+
+#: ../../functions/libs/custom-post-type.php:1427
+#: ../../yti_v/plugin_settings.php:272
+msgid "No YouTube logo on controls bar"
+msgstr "Ascunde logo YouTube in bara de control"
+
+#: ../../functions/libs/custom-post-type.php:1430
+#: ../../yti_v/plugin_settings.php:275
+msgid ""
+"Setting the color parameter to white will cause this option to be ignored."
+msgstr ""
+"In cazul setarii parametrului de culoare optiunea aceasta va fi ignorata."
+
+#: ../../functions/libs/custom-post-type.php:1435
+#: ../../yti_v/plugin_settings.php:280
+msgid "Annotations"
+msgstr "Comentarii in player-ul video"
+
+#: ../../functions/libs/custom-post-type.php:1440
+#: ../../yti_v/plugin_settings.php:285
+msgid "Show annotations by default"
+msgstr "Arata comentariile"
+
+#: ../../functions/libs/custom-post-type.php:1441
+#: ../../yti_v/plugin_settings.php:286
+msgid "Hide annotations"
+msgstr "Ascunde comentariile"
+
+#: ../../functions/libs/custom-post-type.php:1452
+#: ../../yti_v/plugin_settings.php:297
+msgid "Show related videos"
+msgstr "Arata videoclipuri inrudite"
+
+#: ../../functions/libs/custom-post-type.php:1455
+#: ../../yti_v/plugin_settings.php:300
+msgid "when checked, after video ends player will display related videos"
+msgstr ""
+"daca este bifat, la sfarsitul redarii videoclipului vor fi afisate "
+"videoclipuri inrudite"
+
+#: ../../functions/libs/custom-post-type.php:1460
+msgid "Show video title in player"
+msgstr "Arata titlul videoclipului in playerul video"
+
+#: ../../functions/libs/custom-post-type.php:1465
+#: ../../yti_v/plugin_settings.php:310
+msgid "Disable keyboard player controls"
+msgstr "Anuleaza controlul din tastatura"
+
+#: ../../functions/libs/custom-post-type.php:1468
+#: ../../yti_v/plugin_settings.php:313
+msgid "Works only when player has focus."
+msgstr "Functioneaza doar cand playerul are focus."
+
+#: ../../functions/libs//latest-videos-widget.php:13
+msgid "The most recent videos on your site."
+msgstr "Cele mai recente videoclipuri."
+
+#: ../../functions/libs//latest-videos-widget.php:24
+msgid "Recent videos"
+msgstr "Videoclipuri recente"
+
+#: ../../functions/libs//latest-videos-widget.php:131
+#: ../../functions/libs/playlists-list-table.php.php:205
+#: ../../functions/libs/video-import-list-table.class.php:117
+#: ../../functions/libs/video-list-table-yti.php:184
+msgid "Title"
+msgstr "Titlu"
+
+#: ../../functions/libs//latest-videos-widget.php:135
+msgid "Number of videos to show"
+msgstr "Numarul de videoclipuri afisat"
+
+#: ../../functions/libs//latest-videos-widget.php:140
+msgid "Display YouTube thumbnails?"
+msgstr "Afiseaza imagini YouTube?"
+
+#: ../../functions/libs//latest-videos-widget.php:144
+msgid "Show as video playlist"
+msgstr "Afiseaza ca playlist video"
+
+#: ../../functions/libs//latest-videos-widget.php:149
+msgid "Aspect"
+msgstr "Aspect"
+
+#: ../../functions/libs/playlists-list-table.php.php:61
+msgid "Start"
+msgstr "Start"
+
+#: ../../functions/libs/playlists-list-table.php.php:61
+msgid "Pause"
+msgstr "Pauza"
+
+#: ../../functions/libs/playlists-list-table.php.php:65
+msgid "Edit"
+msgstr "Editeaza"
+
+#: ../../functions/libs/playlists-list-table.php.php:66
+#: ../../functions/libs/playlists-list-table.php.php:223
+msgid "Delete"
+msgstr "Sterge"
+
+#: ../../functions/libs/playlists-list-table.php.php:67
+msgid "Reset"
+msgstr "Restabilire"
+
+#: ../../functions/libs/playlists-list-table.php.php:87
+msgid "User uploads"
+msgstr "Upload utilizator"
+
+#: ../../functions/libs/playlists-list-table.php.php:90
+msgid "Video playlist"
+msgstr "Playlist video"
+
+#: ../../functions/libs/playlists-list-table.php.php:126
+msgid "never"
+msgstr "niciodata"
+
+#: ../../functions/libs/playlists-list-table.php.php:135
+msgid "Not in queue"
+msgstr "Dezactivat"
+
+#: ../../functions/libs/playlists-list-table.php.php:149
+#, php-format
+msgid "Import as <strong>%s</strong> posts."
+msgstr "Importa ca articole <strong>%s</sctrong>."
+
+#: ../../functions/libs/playlists-list-table.php.php:152
+msgid "Theme not active. Videos will be imported as plugin custom posts."
+msgstr ""
+"Tema nu este activa. Videoclipurile vor fi importate ca articole video."
+
+#: ../../functions/libs/playlists-list-table.php.php:155
+msgid "Import as custom post."
+msgstr "Import ca articol video."
+
+#: ../../functions/libs/playlists-list-table.php.php:206
+msgid "Playlist type"
+msgstr "Tip playlist"
+
+#: ../../functions/libs/playlists-list-table.php.php:207
+#: ../../yti_v/manage_playlist.php:104
+msgid "Import in category"
+msgstr "Import in categoria"
+
+#: ../../functions/libs/playlists-list-table.php.php:208
+#: ../../yti_v/manage_playlist.php:43
+msgid "Playlist ID"
+msgstr "ID playlist"
+
+#: ../../functions/libs/playlists-list-table.php.php:209
+msgid "Imported"
+msgstr "Importate"
+
+#: ../../functions/libs/playlists-list-table.php.php:210
+msgid "Total videos"
+msgstr "Total videoclipuri"
+
+#: ../../functions/libs/playlists-list-table.php.php:211
+msgid "Queried on"
+msgstr "Ultima actualizare"
+
+#: ../../functions/libs/playlists-list-table.php.php:212
+msgid "Status"
+msgstr "Status"
+
+#: ../../functions/libs/playlists-list-table.php.php:224
+msgid "Remove from import queue"
+msgstr "Elimina din lista de update"
+
+#: ../../functions/libs/playlists-list-table.php.php:225
+msgid "Add to import queue"
+msgstr "Adauga in lista de update"
+
+#: ../../functions/libs/playlists-list-table.php.php:246
+msgid "All automatic importers"
+msgstr "Toate importurile automate"
+
+#: ../../functions/libs/playlists-list-table.php.php:246
+msgid "All"
+msgstr "Toate"
+
+#: ../../functions/libs/playlists-list-table.php.php:247
+msgid "Active automatic importers"
+msgstr "Importuri automate active"
+
+#: ../../functions/libs/playlists-list-table.php.php:247
+msgid "Active"
+msgstr "Active"
+
+#: ../../functions/libs/playlists-list-table.php.php:248
+msgid "Inactive automatic importers"
+msgstr "Importuri automate inactive"
+
+#: ../../functions/libs/playlists-list-table.php.php:248
+msgid "Inactive"
+msgstr "Inactive"
+
+#: ../../functions/libs/video-import-list-table.class.php:21
+#, php-format
+msgid "Column <em>%s</em> was not found."
+msgstr "Coloana <em>%s</em> nu a fost gasita."
+
+#: ../../functions/libs/video-import-list-table.class.php:47
+msgid "View on YouTube"
+msgstr "Vezi pe YouTube"
+
+#: ../../functions/libs/video-import-list-table.class.php:75
+#, php-format
+msgid " (%d votes)"
+msgstr "(%d voturi)"
+
+#: ../../functions/libs/video-import-list-table.class.php:118
+#: ../../functions/libs/video-list-table-yti.php:187
+msgid "Category"
+msgstr "Categorie"
+
+#: ../../functions/libs/video-import-list-table.class.php:120
+msgid "Uploader"
+msgstr "Utilizator"
+
+#: ../../functions/libs/video-import-list-table.class.php:122
+#: ../../yti_v/import_videos.php:69
+msgid "Rating"
+msgstr "Nota"
+
+#: ../../functions/libs/video-import-list-table.class.php:123
+msgid "Views"
+msgstr "Vizualizari"
+
+#: ../../functions/libs/video-import-list-table.class.php:124
+#: ../../functions/libs/video-list-table-yti.php:140
+#: ../../yti_v/plugin_settings.php:110
+msgid "Published"
+msgstr "Data publicare"
+
+#: ../../functions/libs/video-import-list-table.class.php:161
+#: ../../yti_v/manage_playlist.php:95 ../../yti_v/manage_playlist.php:146
+msgid "Create categories from YouTube"
+msgstr "Creeaza categorii din YouTube"
+
+#: ../../functions/libs/video-import-list-table.class.php:163
+#: ../../yti_v/manage_playlist.php:97 ../../yti_v/manage_playlist.php:148
+msgid "Select category (optional)"
+msgstr "Selecteaza categorie (optional)"
+
+#: ../../functions/libs/video-import-list-table.class.php:169
+#: ../../yti_v/manage_playlist.php:55
+msgid "Current user"
+msgstr "User curent"
+
+#: ../../functions/libs/video-import-list-table.class.php:177
+msgid "Bulk actions"
+msgstr "Actiuni"
+
+#: ../../functions/libs/video-import-list-table.class.php:178
+msgid "Import"
+msgstr "Import"
+
+#: ../../functions/libs/video-import-list-table.class.php:182
+msgid "Import into category"
+msgstr "Import in categoria"
+
+#: ../../functions/libs/video-import-list-table.class.php:187
+#: ../../yti_v/manage_playlist.php:65
+msgid "Import as user"
+msgstr "Importa ca utilizator"
+
+#: ../../functions/libs/video-import-list-table.class.php:191
+msgid "Apply"
+msgstr "Aplica"
+
+#: ../../functions/libs/video-list-table-yti.php:57
+msgid "Auto play"
+msgstr "Autoplay"
+
+#: ../../functions/libs/video-list-table-yti.php:58
+#: ../../yti_v/plugin_settings.php:210
+msgid "Show player controls"
+msgstr "Arata comenzi video player"
+
+#: ../../functions/libs/video-list-table-yti.php:59
+msgid "Insert shortcode"
+msgstr "Insereaza shortcode"
+
+#: ../../functions/libs/video-list-table-yti.php:60
+#: ../../yti_v/manage_playlist.php:5
+msgid "Cancel"
+msgstr "Anuleaza"
+
+#: ../../functions/libs/video-list-table-yti.php:66
+msgid "Get video shortcode"
+msgstr "Shorcode video"
+
+#: ../../functions/libs/video-list-table-yti.php:139
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: ../../functions/libs/video-list-table-yti.php:157
+msgid "All categories"
+msgstr "Toate categoriile"
+
+#: ../../functions/libs/video-list-table-yti.php:171
+msgid "Categories"
+msgstr "Categorii"
+
+#: ../../functions/libs/video-list-table-yti.php:173
+msgid "Filter"
+msgstr "Filtreaza"
+
+#: ../../functions/libs/video-list-table-yti.php:188
+msgid "Date"
+msgstr "Data"
+
+#: ../../yti_v/import_videos.php:2
+msgid "Import videos from YouTube."
+msgstr "Importa videoclipuri YouTube."
+
+#: ../../yti_v/import_videos.php:3
+msgid ""
+"Enter your search criteria and submit. All found videos will be displayed "
+"and you can selectively import videos into WordPress."
+msgstr ""
+"Introduceti criteriul de cautare. Toate videoclipurile gasite vor fi afisate "
+"si veti putea selecta videoclipurile ce vor fi importate in WordPress."
+
+#: ../../yti_v/import_videos.php:13 ../../yti_v/manage_playlist.php:26
+msgid "Feed type"
+msgstr "Tip lista"
+
+#: ../../yti_v/import_videos.php:17
+msgid "YouTube user ID"
+msgstr "ID utilizator YouTube"
+
+#: ../../yti_v/import_videos.php:17
+msgid "User feed"
+msgstr "Lista utilizator"
+
+#: ../../yti_v/import_videos.php:18
+msgid "YouTube playlist ID"
+msgstr "ID playlist YouTube"
+
+#: ../../yti_v/import_videos.php:18
+msgid "Playlist feed"
+msgstr "Lista playlist"
+
+#: ../../yti_v/import_videos.php:19
+msgid "Search query"
+msgstr "Cautare"
+
+#: ../../yti_v/import_videos.php:19
+msgid "Search query feed"
+msgstr "Lista cautare"
+
+#: ../../yti_v/import_videos.php:21
+msgid "Select the type of feed you want to load."
+msgstr "Selectati tipul de lista pe care doriti sa-l incarcati."
+
+#: ../../yti_v/import_videos.php:26
+msgid "Number of videos to retrieve"
+msgstr "Numar de videoclipuri "
+
+#: ../../yti_v/import_videos.php:29
+msgid ""
+"Enter any number of results you want to retrieve. Results will be displayed "
+"paginated."
+msgstr ""
+"Introduceti numarul de rezultate. Rezultatele cautarii vor fi afisate pe "
+"pagini."
+
+#: ../../yti_v/import_videos.php:34
+msgid "Video duration"
+msgstr "Durata videoclip"
+
+#: ../../yti_v/import_videos.php:37
+msgid "Any"
+msgstr "Oricare"
+
+#: ../../yti_v/import_videos.php:38
+msgid "Short (under 4min.)"
+msgstr "Scurta (sub 4 minute)"
+
+#: ../../yti_v/import_videos.php:39
+msgid "Medium (between 4 and 20min.)"
+msgstr "Medie (intre 4 si 20 de minute)"
+
+#: ../../yti_v/import_videos.php:40
+msgid "Long (over 20min.)"
+msgstr "Lunga (peste 20 de minute)"
+
+#: ../../yti_v/import_videos.php:47
+msgid "Search by"
+msgstr "Cautare dupa"
+
+#: ../../yti_v/import_videos.php:51
+msgid ""
+"Enter playlist ID, user ID or search query according to Feed Type selection."
+msgstr ""
+"Introduceti id-ul playlist-ului, ID-ul de utilizator YouTube sau cautarea in "
+"concordanta cu Tipul listei."
+
+#: ../../yti_v/import_videos.php:56
+msgid "Order by"
+msgstr "Ordonare dupa"
+
+#: ../../yti_v/import_videos.php:59
+msgid "Date of publishing"
+msgstr "Data publicarii"
+
+#: ../../yti_v/import_videos.php:60
+msgid "Number of views"
+msgstr "Numarul de vizualizari"
+
+#: ../../yti_v/import_videos.php:62
+msgid "Position in playlist"
+msgstr "Pozitia in playlist"
+
+#: ../../yti_v/import_videos.php:63
+msgid "Number of comments"
+msgstr "Numarul de comentarii"
+
+#: ../../yti_v/import_videos.php:64
+msgid "Duration (longest to shortest)"
+msgstr "Durata (de la cel mai lung la cel mai scurt)"
+
+#: ../../yti_v/import_videos.php:65
+msgid "Reversed position in playlist"
+msgstr "Pozitia inversa din playlist"
+
+#: ../../yti_v/import_videos.php:66
+msgid "Video title"
+msgstr "Titlul videoclipului"
+
+#: ../../yti_v/import_videos.php:68
+msgid "Search relevance"
+msgstr "Relevanta cautarii"
+
+#: ../../yti_v/import_videos.php:80 ../../yti_v/manage_playlist.php:119
+#, php-format
+msgid "Import in <strong>%s</strong>?"
+msgstr "Import in <strong>%s</strong>?"
+
+#: ../../yti_v/import_videos.php:85 ../../yti_v/manage_playlist.php:124
+#, php-format
+msgid ""
+"If you choose to import in %s, all videos will be imported as regular posts "
+"and will be visible in your blog categories."
+msgstr ""
+"Daca alegeti sa importati in %s, toate videoclipurile vor fi importate ca "
+"articole WordPress normale si vor fi vizibile in categoriile blog-ului dvs."
+
+#: ../../yti_v/import_videos.php:100
+msgid "Load feed"
+msgstr "Incarca lista"
+
+#: ../../yti_v/manage_playlist.php:19
+msgid "Playlist name"
+msgstr "Nume playlist"
+
+#: ../../yti_v/manage_playlist.php:22
+msgid "A name for your internal reference."
+msgstr "Un nume pentru referinta interna."
+
+#: ../../yti_v/manage_playlist.php:31
+msgid "User playlist"
+msgstr "Lista utilizator"
+
+#: ../../yti_v/manage_playlist.php:32
+msgid "YouTube playlist"
+msgstr "Playlist YouTube"
+
+#: ../../yti_v/manage_playlist.php:39
+msgid "Choose the kind of playlist you want to import."
+msgstr "Alegeti tipul de playlist pe care doriti sa-l importati."
+
+#: ../../yti_v/manage_playlist.php:46
+msgid "Check playlist"
+msgstr "Verifica playlist"
+
+#: ../../yti_v/manage_playlist.php:47
+msgid "Enter playlist ID or user ID according to Feed Type selection."
+msgstr ""
+"Introduceti ID playlist sau ID utilizator in concordanta cu Tipul listei."
+
+#: ../../yti_v/manage_playlist.php:68
+msgid "Video posts will be created as written by the selected user."
+msgstr "Videoclipurile vor fi create ca fiind scrise de utilizatorul selectat."
+
+#: ../../yti_v/manage_playlist.php:74
+msgid "Add to import queue?"
+msgstr "Incepe importul"
+
+#: ../../yti_v/manage_playlist.php:77
+msgid ""
+"If checked, playlist will be added to importing queue and will import when "
+"its turn comes."
+msgstr ""
+"Daca se bifeaza, lista va fi activata si importul va incepe in momentul in "
+"care se ajunge la aceasta lista."
+
+#: ../../yti_v/manage_playlist.php:107
+msgid "Select category for all videos imported from this playlist."
+msgstr "Selectati categoria in care vor fi salvate videoclipurile importate."
+
+#: ../../yti_v/manage_playlist.php:154
+#, php-format
+msgid "Import in <strong>%s</strong> category"
+msgstr "Import in categoria <strong>%s</strong>"
+
+#: ../../yti_v/manage_playlist.php:157
+msgid ""
+"Select category for all videos imported from this playlist as theme posts."
+msgstr "Selectati categoria in care se vor importa videoclipurile."
+
+#: ../../yti_v/manage_playlist.php:175
+msgid "Save"
+msgstr "Salveaza"
+
+#: ../../yti_v/new_video.php:3
+msgid "step 1"
+msgstr "pasul 1"
+
+#: ../../yti_v/new_video.php:7
+msgid "Please enter the video ID you want to search for:"
+msgstr "Introduceti ID-ul videoclipului pe care doriti sa-l cautati:"
+
+#: ../../yti_v/new_video.php:9
+msgid "how to get video ID"
+msgstr "cum gasesc ID-ul videoclipului"
+
+#: ../../yti_v/new_video.php:13
+#, php-format
+msgid "Import as <strong>%s</strong> post"
+msgstr "Importa ca articol <strong>%s</strong>"
+
+#: ../../yti_v/new_video.php:16
+msgid ""
+"<strong>Step 1</strong> - open any YouTube video page with your favourite "
+"browser."
+msgstr ""
+"<strong>Pasul 1</strong> - deschideti cu browser-ul preferat orice videoclip "
+"YouTube."
+
+#: ../../yti_v/new_video.php:17
+msgid ""
+"<strong>Step 2</strong> - From your browser address bar copy the value from "
+"variable v (highlighted in image below)."
+msgstr ""
+"<strong>Pasul 2</strong> - In adresa, copiati valoarea variabilei v "
+"(evidentiata in imagine)."
+
+#: ../../yti_v/new_video.php:19
+msgid ""
+"<strong>Step 3</strong> - paste the ID into the field above and hit Search "
+"video below."
+msgstr ""
+"<strong>Pasul 3</strong> - introduceti ID-ul in campul de mai jos si apasati "
+"Cauta videoclip."
+
+#: ../../yti_v/new_video.php:23
+msgid "Search video"
+msgstr "Cauta videoclip"
+
+#: ../../yti_v/plugin_settings.php:3
+msgid "Videos - Plugin settings"
+msgstr "Videoclipuri - optiuni"
+
+#: ../../yti_v/plugin_settings.php:9
+msgid "Visibility"
+msgstr "Vizibilitate"
+
+#: ../../yti_v/plugin_settings.php:11
+msgid "Allow videos in front-end as posts"
+msgstr "Permite afisearea videoclipurilor in website."
+
+#: ../../yti_v/plugin_settings.php:16
+msgid ""
+"Videos are not available in front-end to be used as posts. You can only "
+"incorporate them in playlists or display them in regular posts."
+msgstr ""
+"Videoclipurile nu sunt disponibile in website. Pot fi folosite in in "
+"playlist-uri sau ca shortcode."
+
+#: ../../yti_v/plugin_settings.php:18
+msgid ""
+"Videos are available in front-end as regular posts are and can also be "
+"incorporated in playlists or displayed in regular posts."
+msgstr ""
+"Videoclipurile sunt vizibile in website si pot fi incorporate in articole "
+"utilizand shortcode-uri."
+
+#: ../../yti_v/plugin_settings.php:25
+msgid "Allow videos in archive pages"
+msgstr "Permiteti afisarea video in arhive."
+
+#: ../../yti_v/plugin_settings.php:29
+msgid ""
+"When checked, videos will be visible on all pages displaying lists of video "
+"posts."
+msgstr ""
+"Cand e bifat, videoclipurile vor fi vizibile in toate paginile de arhiva."
+
+#: ../../yti_v/plugin_settings.php:35
+msgid "Rewrite (pretty links)"
+msgstr "Rewrite (link-uri prietenoase)"
+
+#: ../../yti_v/plugin_settings.php:37
+msgid "Post slug"
+msgstr "Link articol"
+
+#: ../../yti_v/plugin_settings.php:43
+msgid "Taxonomy slug"
+msgstr "Link categorie"
+
+#: ../../yti_v/plugin_settings.php:50
+msgid "Bulk Import settings"
+msgstr "Optiuni import in masa"
+
+#: ../../yti_v/plugin_settings.php:52
+msgid "Import categories"
+msgstr "Importa categorii"
+
+#: ../../yti_v/plugin_settings.php:55
+msgid ""
+"Categories retrieved from YouTube will be automatically created and videos "
+"assigned to them accordingly."
+msgstr ""
+"Categoriile YouTube vor fi create automat iar articolele vor fi atribuite "
+"acestora."
+
+#: ../../yti_v/plugin_settings.php:60
+msgid "Import date"
+msgstr "Importa data publicarii"
+
+#: ../../yti_v/plugin_settings.php:63
+msgid "Imports will have YouTube's publishing date."
+msgstr "Articolele vor avea ca data de publicare data publicarii in YouTube."
+
+#: ../../yti_v/plugin_settings.php:68
+msgid "Set featured image"
+msgstr "Seteaza imagine articol"
+
+#: ../../yti_v/plugin_settings.php:71
+msgid "YouTube video thumbnail will be set as post featured image."
+msgstr "Imaginile din YouTube vor fi atribuite articolelor importate."
+
+#: ../../yti_v/plugin_settings.php:72
+msgid ""
+"If you choose to import thumbnails as featured images please lower the "
+"number<br /> of videos imported under <strong>Automatic import</strong> "
+"option to 10 or 20 videos."
+msgstr ""
+"In cazul in care decideti sa importati imaginile, micsorati<br /> numarul de "
+"videoclipuri importate automat la 10 sau 20."
+
+#: ../../yti_v/plugin_settings.php:77
+msgid "Import titles"
+msgstr "Importa titluri"
+
+#: ../../yti_v/plugin_settings.php:80
+msgid "Automatically import video titles from feeds as post title."
+msgstr ""
+"Titlurile videoclipurilor din YouTube vor fi setate ca titlul articolului."
+
+#: ../../yti_v/plugin_settings.php:85
+msgid "Import descriptions as"
+msgstr "Importa descrierile ca"
+
+#: ../../yti_v/plugin_settings.php:90
+msgid "post content"
+msgstr "continut articol"
+
+#: ../../yti_v/plugin_settings.php:91
+msgid "post excerpt"
+msgstr "rezumat articol"
+
+#: ../../yti_v/plugin_settings.php:92
+msgid "post content and excerpt"
+msgstr "continut articol si rezumat"
+
+#: ../../yti_v/plugin_settings.php:93
+msgid "do not import"
+msgstr "nu importa"
+
+#: ../../yti_v/plugin_settings.php:100
+msgid ""
+"Import video description from feeds as post description, excerpt or none."
+msgstr "Importati descrierile ca text articol, rezumat, ambele sau niciunul."
+
+#: ../../yti_v/plugin_settings.php:105
+msgid "Import status"
+msgstr "Status import"
+
+#: ../../yti_v/plugin_settings.php:111
+msgid "Draft"
+msgstr "Ciorna"
+
+#: ../../yti_v/plugin_settings.php:112
+msgid "Pending"
+msgstr "In asteptare"
+
+#: ../../yti_v/plugin_settings.php:119
+msgid "Bulk imported videos will have this status."
+msgstr "Articolele importate in masa vor avea acest status."
+
+#: ../../yti_v/plugin_settings.php:126
+msgid "Import "
+msgstr "Import"
+
+#: ../../yti_v/plugin_settings.php:135
+msgid "every"
+msgstr "fiecare"
+
+#: ../../yti_v/plugin_settings.php:144
+msgid "How often should YouTube be queried for playlist updates."
+msgstr ""
+"Cat de des vor fi emise cereri catre YouTube pentru a actualiza listele"
+
+#: ../../yti_v/plugin_settings.php:150
+msgid "Player settings"
+msgstr "Optiuni player video"
+
+#: ../../yti_v/plugin_settings.php:151
+msgid ""
+"General YouTube player settings. These settings will be applied to any new "
+"video by default and can be changed individually for every imported video."
+msgstr ""
+"Optiuni generale YouTube. Aceste optiuni vor fi aplicate oricarui nou "
+"videoclip importat."
+
+#: ../../yti_v/plugin_settings.php:215
+msgid "Allow fullscreen"
+msgstr "Permiteti eran intreg"
+
+#: ../../yti_v/plugin_settings.php:227
+msgid "Fade out progress bar when playing"
+msgstr "Ascunde bara de progres video in timpul redarii"
+
+#: ../../yti_v/plugin_settings.php:305
+msgid "Show video title by default"
+msgstr "Arata titlul videoclipului"
+
+#: ../../yti_v/plugin_settings.php:314
+msgid ""
+"Controls:<br> - spacebar : play/pause,<br> - arrow left : jump back 10% in "
+"current video,<br> - arrow-right: jump ahead 10% in current video,<br> - "
+"arrow up - volume up,<br> - arrow down - volume down."
+msgstr ""
+"Comenzi:<br /> - bara spatiu: play/pauze,<br /> - sageata stanga: inapoi 10% "
+"din videoclipul curent,<br /> - sageata dreapta: inainte 10% din videoclipul "
+"curent,<br /> - sageata sus: crestere volum,<br /> - sageata jos: diminuare "
+"volum."
+
+#: ../../yti_v/plugin_settings.php:320
+msgid "Purchase code"
+msgstr "Cod cumparare"
+
+#: ../../yti_v/plugin_settings.php:321
+msgid "Envato purchase code will enable automatic updates."
+msgstr ""
+"Codul de cumparare Envato va permite actualizarea automata a plugin-ului."
+
+#: ../../yti_v/plugin_settings.php:325
+msgid "Enter purchase code"
+msgstr "Introduceti cod de cumparare"
+
+#: ../../yti_v/plugin_settings.php:328
+msgid ""
+"You can find your purchase code by accessing your Envato marketplace "
+"Downloads page <br />and clicking on Licence Certificate link that can be "
+"found under your plugin purchase."
+msgstr ""
+"Codul de cumparare poate fi accesat din pagina Downloads din contul dvs. "
+"Envato facant click pe link-ul Licence Certificate care poate fi gasit sub "
+"prezentarea plugin-ului."
+
+#: ../../yti_v/plugin_settings.php:335
+msgid "Save settings"
+msgstr "Salveaza optiuni"
+
+#: ../../yti_v/help/automatic-import-as-post.html.php:2
+msgid ""
+"Depending on the WordPress theme used, the plugin can import videos directly "
+"as posts. Currently supported themes are DeTube and Avada."
+msgstr ""
+"In functie de tema WordPress utilizata plugin-ul poate importa videoclipuri "
+"ca si articole WordPress. Temele suportate sunt DeTube, Avada, SimpleMag si "
+"GoodWork."
+
+#: ../../yti_v/help/automatic-import-as-post.html.php:3
+msgid ""
+"To import videos as posts the first requirement is to have any of the "
+"supported themes installed and activated."
+msgstr ""
+"Pentru a importa videoclipuri ca articole WordPress prima cerinta este sa "
+"aveti una dintre temele compatibile activate."
+
+#: ../../yti_v/help/automatic-import-as-post.html.php:4
+msgid ""
+"If the plugin detects the theme, on all import pages (single post, manual "
+"import and automatic import) it will display a new option asking if it "
+"should do the import as regular post."
+msgstr ""
+"In cazul detectarii uneia dintre temele compatibile, toate paginile de "
+"import (import video, import manual in masa sau import automat) vor afisa o "
+"noua optiune pentru a permite importul ca articole WordPress."
+
+#: ../../yti_v/help/automatic-import-as-post.html.php:5
+msgid ""
+"Any videos imported for the theme will not be available under All videos, "
+"instead they will display under Posts."
+msgstr ""
+"Videoclipurile importate ca articole WordPress nu vor fi vizibile in meniul "
+"Toate videoclipurile; ele vor fi afisate ca si articole WordPress."
+
+#: ../../yti_v/help/automatic-import-frequency.html.php:2
+msgid ""
+"Import frequency is basically how often YouTube will be queried for new "
+"videos that might have been published into a playlist."
+msgstr ""
+"Frecventa de import automat determina frecventa cu care va fi accesat "
+"YouTube pentru a cere videoclipuri noi care au fost publicate in playlist."
+
+#: ../../yti_v/help/automatic-import-frequency.html.php:3
+msgid ""
+"To change the import frequency just visit Settings page in plugin menu and "
+"modify the option <em>Automatic import</em>."
+msgstr ""
+"Pentru a modifica frecventa de import vizitati pagina Optiuni din meniul "
+"pluginului si modificati datele de <em>Import automat</em>."
+
+#: ../../yti_v/help/automatic-import-frequency.html.php:6
+msgid ""
+"Please note that only one playlist is update with each query made to YouTube."
+msgstr "Nota: doar un singur playlist este actualizat pentru fiecare interval."
+
+#: ../../yti_v/help/automatic-import-frequency.html.php:7
+msgid ""
+"This means that for each period of time set under Automatic import the "
+"number of videos set in Settings page will be retrieved from the playlist "
+"that comes next in line."
+msgstr ""
+"Aceasta inseamna ca pentur fiecare perioada setata la Import automat, "
+"numarul de videoclipuri din pagina de optiuni va fi creat din playlist-ul "
+"care urmeaza."
+
+#: ../../yti_v/help/automatic-import-frequency.html.php:8
+msgid ""
+"Also, make sure you don't exceed 50 videos per query since this is a "
+"limitation set by YouTube."
+msgstr ""
+"De asemenea, nu mariti numarul de videoclipuri extrase la mai mult de 50, "
+"acest numar fiind limitat de YouTube."
+
+#: ../../yti_v/help/automatic-import-frequency.html.php:11
+msgid ""
+"Please note that if videos from a playlist are already imported the plugin "
+"won't create double posts. All duplicates will be skipped but the import "
+"count for that playlist will get updated."
+msgstr ""
+"Nota: plugin-ul nu va crea duplicate daca videclipul deja exista. "
+"Duplicatele vor fi sarite dar numarul de videoclipuri va fi actualizat."
+
+#: ../../yti_v/help/automatic-import-overview.html.php:2
+msgid "This screen provides access to all your automatic playlists."
+msgstr "Acest ecran va da acces la toate playlist-urile automate."
+
+#: ../../yti_v/help/automatic-import-overview.html.php:3
+msgid "To create a new playlist just click Add New next to the page title."
+msgstr "Pentru a crea un nou playlist apasati Adauga de langa titlul paginii."
+
+#: ../../yti_v/help/automatic-import-overview.html.php:4
+msgid "To change import frequency please visit Settings page from plugin menu."
+msgstr "Pentru a modifica frecventa de import vizitati pagina Optiuni."
+
+#, fuzzy
+#~ msgctxt "video"
+#~ msgid "Videos"
+#~ msgstr "Videoclipuri"
+
+#, fuzzy
+#~ msgctxt "Video categories"
+#~ msgid "Video categories"
+#~ msgstr "Categorii video"
