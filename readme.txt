@@ -2,8 +2,8 @@
 Contributors: youtubeimporter
 Donate link: http://youtubeimporter.com
 Tags: Youtube, Video, YouTube API V3, Auto Import, YouTube Auto Import
-Requires at least: 3.0.1
-Tested up to: 4.0.2
+Requires at least: 4.0
+Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ The following are the key qualities that should compel you to go for this Video 
 
 * This plug-in allows the use of multiple players on the same page. The exclusive YouTube HTML5 player is also supported by this plug-in so that you can easily watch your favorite videos on your iPad/iPhone.
 * The design of this plug-in is touch-enable and responsive.
+
+= Default Compatible Themes =
+TrueMag, Avada, GoodWork, SimpleMag, Sahifa, Wave, DeTube, Enfold, BeeTube
 
 Get hold of this YouTube Video Importer WordPress Plugin today and make your blog a success. 
 
