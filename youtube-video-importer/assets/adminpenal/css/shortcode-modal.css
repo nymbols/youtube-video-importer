@@ -1,0 +1,61 @@
+#YVIIVideo_Modal_Window{
+	background:#FFF;
+	display:block;
+	position:relative;
+	padding:0px!important;
+	overflow:hidden;	
+}
+
+#yvi-playlist-items{
+	display:block;
+	position:absolute;
+	width:30%;
+	height:98%;
+	left:0px;
+	overflow:auto;
+}
+	#yvi-playlist-items .inside{
+		display:block;
+		padding:10px;
+	}
+	#yvi-playlist-items #yvii-list-items{
+		display:block;		
+	}
+	#yvi-playlist-items #yvii-list-items .playlist_item{
+		margin-bottom:2px;
+		padding-bottom:2px;
+		border-bottom:1px #eee solid;
+		line-height:20px;
+	}
+	#yvi-playlist-items #yvii-list-items span.duration{
+		color:#999;
+		font-style:italic;
+	}
+	#yvi-playlist-items #yvii-list-items a.yvi-del-item{
+		text-indent:-999px;
+		display:block;
+		width:16px;
+		margin-right:5px;
+		float:left;
+		background:url(../images/delete-small.png) center center no-repeat;
+	}
+	
+#yvi-display-videos{
+	display:block;
+	position:absolute;
+	width:69%;
+	height:98%;
+	right:0px;
+	border-left:1px #CCC solid;
+}
+
+#yvi-shortcode-2-post{
+	background-image:url(../images/video.png);
+	background-position:3px center;
+	background-repeat:no-repeat;
+	padding-left:23px;
+}
+
+#yvi-insert-playlist-shortcode{
+	white-space:nowrap;
+}
