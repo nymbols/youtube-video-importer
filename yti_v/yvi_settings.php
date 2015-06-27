@@ -4,16 +4,11 @@
 	<form method="post" action="<?php echo $form_action;?>">
 		<div id="yvi_tabs">
 			<?php wp_nonce_field('yvi-save-plugin-settings', 'yvi_wp_nonce');?>
-			<ul class="yvi-tab-labels">
-				<li><a href="#yvi-settings-post-options"><i class="dashicons dashicons-arrow-right"></i> <?php _e('Post Settings', 'yvi_video')?></a></li>
-				<li><a href="#yvi-settings-content-options"><i class="dashicons dashicons-arrow-right"></i> <?php _e('Content Settings', 'yvi_video')?></a></li>
-				<li><a href="#yvi-settings-image-options"><i class="dashicons dashicons-arrow-right"></i> <?php _e('Image Settings', 'yvi_video')?></a></li>
-				<li><a href="#yvi-settings-import-options"><i class="dashicons dashicons-arrow-right"></i> <?php _e('Import Settings', 'yvi_video')?></a></li>
-				<li><a href="#yvi-settings-embed-options"><i class="dashicons dashicons-arrow-right"></i> <?php _e('Embed Settings', 'yvi_video')?></a></li>
-				<li><a href="#yvi-settings-auth-options"><i class="dashicons dashicons-arrow-right"></i> <?php _e('YouTube API', 'yvi_video')?></a></li>
-			</ul>
-			<!-- Tab post options -->
-			<div id="yvi-settings-post-options">
+
+			<div class="tab active" id="content1"><?php _e('Post Settings', 'yvi_video')?></div>
+
+			<div class="content content1" style="display:block">
+							<div id="yvi-settings-post-options">
 				<table class="form-table">
 					<tbody>
 						<!-- Import type -->
@@ -111,8 +106,13 @@
 				<?php submit_button(__('Save settings', 'yvi_video'));?>	
 			</div>
 			<!-- /Tab post options -->
-			
-			<!-- Tab content options -->
+			</div>
+
+
+			<div class="tab" id="content2"><?php _e('Content Settings', 'yvi_video')?></div>
+
+			<div class="content content2">
+				<!-- Tab content options -->
 			<div id="yvi-settings-content-options">
 				<table class="form-table">
 					<tbody>
@@ -198,8 +198,13 @@
 				<?php submit_button(__('Save settings', 'yvi_video'));?>	
 			</div>
 			<!-- /Tab content options -->
-			
-			<!-- Tab image options -->
+			</div>
+
+
+			<div class="tab" id="content3"><?php _e('Image Settings', 'yvi_video')?></div>
+
+			<div class="content content3">
+				<!-- Tab image options -->
 			<div id="yvi-settings-image-options">
 				<table class="form-table">
 					<tbody>
@@ -247,8 +252,13 @@
 				<?php submit_button(__('Save settings', 'yvi_video'));?>
 			</div>
 			<!-- /Tab image options -->
-			
-			<!-- Tab import options -->
+			</div>
+
+
+			<div class="tab" id="content4"><?php _e('Import Settings', 'yvi_video')?></div>
+
+			<div class="content content4">
+				<!-- Tab import options -->
 			<div id="yvi-settings-import-options">
 				<table class="form-table">
 					<tbody>
@@ -354,8 +364,13 @@
 				<?php submit_button(__('Save settings', 'yvi_video'));?>
 			</div>
 			<!-- /Tab import options -->
-			
-			<!-- Tab embed options -->
+			</div>
+
+
+			<div class="tab" id="content5"><?php _e('Embed Settings', 'yvi_video')?></div>
+
+			<div class="content content5">
+				<!-- Tab embed options -->
 			<div id="yvi-settings-embed-options">
 				<table class="form-table">
 					<tbody>
@@ -533,8 +548,13 @@
 				<?php submit_button(__('Save settings', 'yvi_video'));?>
 			</div>
 			<!-- /Tab embed options -->
-			
-			<!-- Tab auth options -->
+			</div>
+
+
+			<div class="tab" id="content6"><?php _e('YouTube API', 'yvi_video')?></div>
+
+			<div class="content content6">
+				<!-- Tab auth options -->
 			<div id="yvi-settings-auth-options">
 				<table class="form-table">
 					<tbody>
@@ -599,6 +619,7 @@
 				<?php submit_button(__('Save settings', 'yvi_video'));?>
 			</div>
 			<!-- /Tab auth options -->
+			</div>
 		</div><!-- #yvi_tabs -->		
 	</form>
 </div>
