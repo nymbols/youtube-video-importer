@@ -4,13 +4,13 @@ Plugin Name: YouTube Video Importer
 Plugin URI: https://wordpress.org/plugins/youtube-video-importer/
 Description: Import YouTube videos directly into WordPress and display them as posts or embedded in existing posts and/or pages as single videos or play-lists
 Author: YouTube Importer
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://www.youtubeimporter.com
 */	
 
 define( 'YVI_PATH'		, plugin_dir_path(__FILE__) );
 define( 'YVI_URL'		, plugin_dir_url(__FILE__) );
-define( 'YVI_VERSION'	, '1.0');
+define( 'YVI_VERSION'	, '1.0.2');
 define( 'YVI_DEBUG'		, false); // if true, will display various information in various admin areas
 
 include_once YVI_PATH . 'functions/functions.php';
