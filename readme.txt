@@ -2,8 +2,8 @@
 Contributors: youtubeimporter
 Donate link: http://youtubeimporter.com
 Tags: Youtube, Video, YouTube API V3, Auto Import, YouTube Auto Import
-Requires at least: 4.0
-Tested up to: 4.2.2
+Requires at least: 3.0.1
+Tested up to: 4.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,9 +58,6 @@ The following are the key qualities that should compel you to go for this Video 
 * This plug-in allows the use of multiple players on the same page. The exclusive YouTube HTML5 player is also supported by this plug-in so that you can easily watch your favorite videos on your iPad/iPhone.
 * The design of this plug-in is touch-enable and responsive.
 
-= Default Compatible Themes =
-TrueMag, Avada, GoodWork, SimpleMag, Sahifa, Wave, DeTube, Enfold, BeeTube
-
 Get hold of this YouTube Video Importer WordPress Plugin today and make your blog a success. 
 
 == Installation ==
@@ -69,15 +66,24 @@ Get hold of this YouTube Video Importer WordPress Plugin today and make your blo
 1. Visit 'Plugins > Add New'
 2. Search for 'YouTube Video Importer'
 3. Activate YouTube Video Importer from your Plugins page.
+4. Come to YVI Settings > YouTube API > Enter YouTube API server key.
 
 = From WordPress.org =
-1- Download `youtube-video-imorter.zip` from WordPress.org.
-1. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Put Your YouTube API in Settings
+1. Download `youtube-video-imorter.zip` from WordPress.org.
+2. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Come to YVI Settings > YouTube API > Enter YouTube API server key.
 
 == Screenshots ==
+1. screenshot-1.png
+2. screenshot-2.png
+3. screenshot-3.png
+4. screenshot-4.png
+5. screenshot-5.png
+6. screenshot-6.png
+
 == Changelog ==
+* Update on 27 June 2015 
 * Update on 23 June 2015 
 * First Release  20 June 2015 
 
