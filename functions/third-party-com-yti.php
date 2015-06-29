@@ -193,7 +193,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format' 	=> 'video',
 				'theme_name' 	=> 'TrueMag',
-				'url'			=> 'http://www.themeforest.net/item/true-mag-wordpress-theme-for-video-and-magazine/6755267/?ref=cboiangiu',
+				'url'			=> 'http://www.themeforest.net/item/true-mag-wordpress-theme-for-video-and-magazine/6755267/?ref=youtubeimporter',
 				'extra_meta' 	=> array(
 					'time_video' => array(				
 						'type' 	=> 'video_data',
@@ -211,7 +211,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format' 	=> false,
 				'theme_name' 	=> 'Avada',
-				'url'			=> 'http://themeforest.net/item/avada-responsive-multipurpose-theme/2833226/?ref=cboiangiu'
+				'url'			=> 'http://themeforest.net/item/avada-responsive-multipurpose-theme/2833226/?ref=youtubeimporter'
 			),
 			
 			// http://themeforest.net/item/goodwork-modern-responsive-multipurpose-wordpress-theme/4574698
@@ -223,7 +223,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format'	=> 'video',
 				'theme_name' 	=> 'Goodwork',
-				'url'			=> 'http://themeforest.net/item/goodwork-modern-responsive-multipurpose-wordpress-theme/4574698/?ref=cboiangiu'	
+				'url'			=> 'http://themeforest.net/item/goodwork-modern-responsive-multipurpose-wordpress-theme/4574698/?ref=youtubeimporter'	
 			),
 			
 			// http://themeforest.net/item/simplemag-magazine-theme-for-creative-stuff/4923427
@@ -235,7 +235,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format' => 'video',
 				'theme_name' => 'SimpleMag',
-				'url' => 'http://themeforest.net/item/simplemag-magazine-theme-for-creative-stuff/4923427/?ref=cboiangiu'
+				'url' => 'http://themeforest.net/item/simplemag-magazine-theme-for-creative-stuff/4923427/?ref=youtubeimporter'
 			),			
 			
 			// http://themeforest.net/item/sahifa-responsive-wordpress-newsmagazineblog/2819356
@@ -247,7 +247,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format' 	=> 'video',
 				'theme_name' 	=> 'Sahifa',
-				'url'			=> 'http://themeforest.net/item/sahifa-responsive-wordpress-newsmagazineblog/2819356/?ref=cboiangiu',
+				'url'			=> 'http://themeforest.net/item/sahifa-responsive-wordpress-newsmagazineblog/2819356/?ref=youtubeimporter',
 				'extra_meta' => array( // store extra meta fields needed to be set on theme post type
 					'tie_post_head' => array(
 						'type' 	=> 'static', // a static value, will always be stored having the same value
@@ -269,7 +269,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format'	=> 'video',
 				'theme_name' 	=> 'Wave',
-				'url'			=> 'http://themeforest.net/item/wave-video-theme-for-wordpress/45855/?ref=cboiangiu',
+				'url'			=> 'http://themeforest.net/item/wave-video-theme-for-wordpress/45855/?ref=youtubeimporter',
 				'extra_meta'	=> array(
 					'video_width_value' => array(
 						'type' 	=> 'player_settings', // variable needs value from plugin player settings
@@ -292,7 +292,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format' 	=> false,				// post format
 				'theme_name' 	=> 'DeTube',			// theme name to display
-				'url'			=> 'http://themeforest.net/item/detube-professional-video-wordpress-theme/2664497/?ref=cboiangiu'
+				'url'			=> 'http://themeforest.net/item/detube-professional-video-wordpress-theme/2664497/?ref=youtubeimporter'
 			),
 			
 			// default in WordPress
@@ -342,7 +342,7 @@ class YVI_Third_Party_Compat{
 				),
 				'post_format'	=> 'video',
 				'theme_name' 	=> 'Beetube',
-				'url'			=> 'http://themeforest.net/item/beetube-video-wordpress-theme/7055188/?ref=cboiangiu',
+				'url'			=> 'http://themeforest.net/item/beetube-video-wordpress-theme/7055188/?ref=youtubeimporter',
 				'extra_meta' => array(
 					'views' => array(
 						'type' => 'video_data',
@@ -361,7 +361,7 @@ class YVI_Third_Party_Compat{
 				'post_meta' => array(),
 				'post_format' => 'video',
 				'theme_name' => 'Enfold',
-				'url' => 'http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=cboiangiu',
+				'url' => 'http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=youtubeimporter',
 				'shortcode' => "[av_video src='https://www.youtube.com/watch?v=%s' format='16-9' width='16' height='9']"
 			)
 		);
