@@ -69,7 +69,8 @@ The following are the key qualities that should compel you to go for this Video 
 * <a href="http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=youtubeimporter">Enfold - Responsive Multi-Purpose Theme</a>
 * <a href="http://themeforest.net/item/beetube-video-wordpress-theme/7055188/?ref=youtubeimporter">BeeTube Video WordPress Theme</a>
 * And Many More Like  Twenty Thirteen,	Twenty Fourteen
-Get hold of this YouTube Video Importer WordPress Plugin today and make your blog a success. 
+
+Get hold of this <strong>YouTube Video Importer WordPress Plugin</strong> today and make your blog a success. 
 
 == Installation ==
 = From your WordPress dashboard =
@@ -79,10 +80,10 @@ Get hold of this YouTube Video Importer WordPress Plugin today and make your blo
 3. Activate YouTube Video Importer from your Plugins page.
 
 = From WordPress.org =
-1- Download `youtube-video-imorter.zip` from WordPress.org.
-1. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Put Your YouTube API in Settings
+1. Download `youtube-video-imorter.zip` from WordPress.org.
+2. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Put Your YouTube API in Settings
 
 == Screenshots ==
 1. screenshot-1.png
