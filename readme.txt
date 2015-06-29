@@ -62,15 +62,11 @@ The following are the key qualities that should compel you to go for this Video 
 * <a href="http://themeforest.net/item/true-mag-wordpress-theme-for-video-and-magazine/6755267/?ref=youtubeimporter">True Mag - Wordpress Theme for Video and Magazine</a>, 
 * <a href="http://themeforest.net/item/avada-responsive-multipurpose-theme/2833226/?ref=youtubeimporter">Avada | Responsive Multi-Purpose Theme</a>
 * <a href="http://themeforest.net/item/goodwork-modern-responsive-multipurpose-wordpress-theme/4574698/?ref=youtubeimporter">GoodWork - Modern Responsive Multi-Purpose WordPress Theme</a>
-
 * <a href="http://themeforest.net/item/simplemag-magazine-theme-for-creative-stuff/4923427/?ref=youtubeimporter">SimpleMag - Magazine theme for creative stuff</a>
 * <a href="http://themeforest.net/item/sahifa-responsive-wordpress-news-magazine-blog-theme/2819356?ref=youtubeimporter">Sahifa - Responsive WordPress News, Magazine, Blog Theme</a>
-
 * <a href="http://themeforest.net/item/wave-video-theme-for-wordpress/45855/?ref=youtubeimporter">Wave: Video Theme for WordPress</a>
-
 * <a href="http://themeforest.net/item/detube-professional-video-wordpress-theme/2664497/?ref=youtubeimporter">deTube - Professional Video WordPress Theme</a>
 * <a href="http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=youtubeimporter">Enfold - Responsive Multi-Purpose Theme</a>
-
 * <a href="http://themeforest.net/item/beetube-video-wordpress-theme/7055188/?ref=youtubeimporter">BeeTube Video WordPress Theme</a>
 * And Many More Like  Twenty Thirteen,	Twenty Fourteen
 Get hold of this YouTube Video Importer WordPress Plugin today and make your blog a success. 
@@ -89,12 +85,17 @@ Get hold of this YouTube Video Importer WordPress Plugin today and make your blo
 1. Put Your YouTube API in Settings
 
 == Screenshots ==
-1.
-2.
-3.
-4.
-5.
-6.
+1. screenshot-1.png
+
+2. screenshot-2.png
+
+3. screenshot-3.png
+
+4. screenshot-5.png
+
+5. screenshot-1.png
+
+6. screenshot-1.png
 
 == Changelog ==
 * Update on 23 June 2015 
