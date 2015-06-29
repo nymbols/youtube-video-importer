@@ -2,12 +2,12 @@
 Contributors: youtubeimporter
 Donate link: http://youtubeimporter.com
 Tags: Youtube, Video, YouTube API V3, Auto Import, YouTube Auto Import
-Requires at least: 3.0.1
-Tested up to: 4.0.2
+Requires at least: 4.0
+Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Import YouTube videos directly into WordPress and display them as posts or embedded in existing posts and/or pages as single videos or play-lists.
+Import YouTube videos directly into WordPress and display them as posts or embedded in existing posts or pages as single video or playlist.
 
 == Description ==
 Do you want to make your blog outshine others? If yes then your blog posts need to be more enticing for the onlooker. Now you can easily add YouTube videos to your WordPress blog posts through the assistance of the YouTube Importer Video WordPress Plugin. 
@@ -58,6 +58,21 @@ The following are the key qualities that should compel you to go for this Video 
 * This plug-in allows the use of multiple players on the same page. The exclusive YouTube HTML5 player is also supported by this plug-in so that you can easily watch your favorite videos on your iPad/iPhone.
 * The design of this plug-in is touch-enable and responsive.
 
+= Default Compatible Themes =
+* <a href="http://themeforest.net/item/true-mag-wordpress-theme-for-video-and-magazine/6755267/?ref=youtubeimporter">True Mag - Wordpress Theme for Video and Magazine</a>, 
+* <a href="http://themeforest.net/item/avada-responsive-multipurpose-theme/2833226/?ref=youtubeimporter">Avada | Responsive Multi-Purpose Theme</a>
+* <a href="http://themeforest.net/item/goodwork-modern-responsive-multipurpose-wordpress-theme/4574698/?ref=youtubeimporter">GoodWork - Modern Responsive Multi-Purpose WordPress Theme</a>
+
+* <a href="http://themeforest.net/item/simplemag-magazine-theme-for-creative-stuff/4923427/?ref=youtubeimporter">SimpleMag - Magazine theme for creative stuff</a>
+* <a href="http://themeforest.net/item/sahifa-responsive-wordpress-news-magazine-blog-theme/2819356?ref=youtubeimporter">Sahifa - Responsive WordPress News, Magazine, Blog Theme</a>
+
+* <a href="http://themeforest.net/item/wave-video-theme-for-wordpress/45855/?ref=youtubeimporter">Wave: Video Theme for WordPress</a>
+
+* <a href="http://themeforest.net/item/detube-professional-video-wordpress-theme/2664497/?ref=youtubeimporter">deTube - Professional Video WordPress Theme</a>
+* <a href="http://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990?ref=youtubeimporter">Enfold - Responsive Multi-Purpose Theme</a>
+
+* <a href="http://themeforest.net/item/beetube-video-wordpress-theme/7055188/?ref=youtubeimporter">BeeTube Video WordPress Theme</a>
+* And Many More Like  Twenty Thirteen,	Twenty Fourteen
 Get hold of this YouTube Video Importer WordPress Plugin today and make your blog a success. 
 
 == Installation ==
@@ -66,19 +81,22 @@ Get hold of this YouTube Video Importer WordPress Plugin today and make your blo
 1. Visit 'Plugins > Add New'
 2. Search for 'YouTube Video Importer'
 3. Activate YouTube Video Importer from your Plugins page.
-4. Come to YVI Settings > YouTube API > Enter YouTube API server key.
 
 = From WordPress.org =
-1. Download `youtube-video-imorter.zip` from WordPress.org.
-2. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Come to YVI Settings > YouTube API > Enter YouTube API server key.
+1- Download `youtube-video-imorter.zip` from WordPress.org.
+1. Upload `youtube-video-imorter.zip` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Put Your YouTube API in Settings
 
 == Screenshots ==
-
+1.
+2.
+3.
+4.
+5.
+6.
 
 == Changelog ==
-* Update on 27 June 2015 
 * Update on 23 June 2015 
 * First Release  20 June 2015 
 
