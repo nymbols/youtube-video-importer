@@ -1602,7 +1602,7 @@ class YVI_Admin extends YVI_AJAX_Actions{
 		<?php _e( 'You must enter your YouTube API key In order to be able to import YouTube videos using the plugin', 'yvi_video' );?><br />
 		<?php _e( 'Please navigate to plugin <strong>Settings</strong> page, tab <strong>API</strong> and enter your <strong>YouTube API key</strong>.', 'yvi_video' );?>		
 	</p>
-	<p><a class="button" href="<?php menu_page_url( 'yvi_settings', true );?>#yvi-settings-auth-options"><?php _e( 'Plugin Settings', 'yvi_video' );?></a></p>
+	<p><a class="button" href="<?php menu_page_url( 'yvi_settings', true );?>#content5"><?php _e( 'Plugin Settings', 'yvi_video' );?></a></p>
 </div>
 		<?php 
 			// stop all other messages if API key is missing
